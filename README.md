@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [@Kaamkiya](https://github.com/Kaamkiya)
 - 👀 I’m interested in coding :)
-- 🌱 I’m currently learning [Flutter](https://flutter.dev) and C++. 
+- 🌱 I’m currently learning C++ and Java. 
 - 📫 How to reach me: on [Scratch](https://scratch.mit.edu/users/Kaamkiya#comments) and if you don't have a Scratch account, you can't. 
 
 <!---
