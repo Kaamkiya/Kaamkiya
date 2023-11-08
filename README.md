@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [@Kaamkiya](https://github.com/Kaamkiya)
 - 👀 I’m interested in coding :)
-- 🌱 I’m currently learning C++ and Ruby. 
+- 🌱 I’m currently learning C++. 
 - 📫 How to reach me: on [Scratch](https://scratch.mit.edu/users/Kaamkiya#comments) or [dev.to](https://dev.to/kaamkiya).
 
 <!---
