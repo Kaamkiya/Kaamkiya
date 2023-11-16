@@ -39,7 +39,8 @@ alt="LeetCode" height="30" width="40" /></a>&nbsp;
 <a href="https://react.dev/"><img src="https://www.svgrepo.com/show/452092/react.svg" alt="ReactJS" width="40" height="30"/></a>
 <a href="https://nodejs.org/"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node" width="40" height="30"/></a>
 <a href="https://java.com/"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="30"/></a>
-<a href="https://ruby-lang.org"><img src="https://www.vectorlogo.zone/logos/ruby/ruby-icon.svg" alt="Ruby" width="40" height="30"/></a>
+<a href="https://ruby-lang.org"><img src="https://www.vectorlogo.zone/logos/ruby/ruby-icon.svg" alt="Ruby" width="30" height="30"/></a>
+<a href="https://rust-lang.org/"><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" width="40" height="30"/></a>
 
 ### Stats
 
