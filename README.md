@@ -38,9 +38,10 @@
 ## I kinda know
 
 [![React](https://img.shields.io/badge/react-aa00ff?style=for-the-badge&logo=react&logoColor=ffffff)](https://react.dev/)
-[![Node](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=00cc00)](https://nodejs.org/)
+[![Node](https://img.shields.io/badge/node.js-00cc00?style=for-the-badge&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![Rust](https://img.shields.io/badge/rust-00efcc?style=for-the-badge&logo=rust&logoColor=000000)](https://rust-lang.org/)
-[![Ruby](https://img.shields.io/badge/ruby-000017?style=for-the-badge&logo=ruby&logoColor=ff0000)](https://ruby-lang.org/)
+[![Ruby](https://img.shields.io/badge/ruby-ffffff?style=for-the-badge&logo=ruby&logoColor=ff0000)](https://ruby-lang.org/)
+[![Java](https://img.shields.io/badge/java-ffcc00?style=for-the-badge&logo=openjdk&logoColor=000000)](https://java.com/)
 
 ## GitHub Stats:
 
