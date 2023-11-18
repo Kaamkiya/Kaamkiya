@@ -1,12 +1,12 @@
 # Hi 👋, I'm Kaamkiya
 
 ## 💫 About Me:
-* 🌱 I’m currently learning Go and C++
+* 🌱 I’m currently learning Go and C++.
 * 💬 Ask me about p5.js
 * ⚡ Fun fact: I speak two languages!
 * 👨‍💻 All of my projects are available at [https://kaamkiya.github.io/projects/](https://kaamkiya.github.io/projects/)
-* 📝 I regularly write articles on [DEV](dev.to/kaamkiya)
-* 📫 How to reach me: on [Scratch](https://scratch.mit.edu/users/Kaamkiya) or [DEV](https://dev.to)
+* 📝 I occasionally write articles on [DEV](dev.to/kaamkiya).
+* 📫 How to reach me: on [Scratch](https://scratch.mit.edu/users/Kaamkiya) or [DEV](https://dev.to).
 
 
 ## Tech Stack:
@@ -41,6 +41,7 @@
 [![React](https://img.shields.io/badge/react-aa00ff?style=for-the-badge&logo=react&logoColor=ffffff)](https://react.dev/)
 [![Node](https://img.shields.io/badge/node.js-00cc00?style=for-the-badge&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![Rust](https://img.shields.io/badge/rust-00efcc?style=for-the-badge&logo=rust&logoColor=000000)](https://rust-lang.org/)
+[![C](https://img.shields.io/badge/C-ff7700.svg?style=for-the-badge&logo=c&logoColor=white)](https://devdocs.io/c/)
 [![Ruby](https://img.shields.io/badge/ruby-ffffff?style=for-the-badge&logo=ruby&logoColor=ff0000)](https://ruby-lang.org/)
 [![Java](https://img.shields.io/badge/java-ffcc00?style=for-the-badge&logo=openjdk&logoColor=000000)](https://java.com/)
 
@@ -51,6 +52,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kaamkiya&theme=nord&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaamkiya&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-![](https://visitcount.itsvg.in/api?id=Kaamkiya&icon=1&color=1)
