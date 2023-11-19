@@ -1,6 +1,7 @@
 # Hi 👋, I'm Kaamkiya
 
 ## 💫 About Me:
+
 * 🌱 I’m currently learning Go and C++.
 * 💬 Ask me about p5.js
 * ⚡ Fun fact: I speak two languages!
@@ -10,6 +11,7 @@
 
 
 ## Tech Stack:
+
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://w3schools.com/cpp/) 
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
@@ -36,7 +38,7 @@
 [![CodeSandbox](https://img.shields.io/badge/CodeSandbox-ffaaff?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/kaamkiya)
 [![LeetCode](https://img.shields.io/badge/LeetCode-fccf00?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/kaamkiya/)
 
-## I kinda know
+## I kinda know:
 
 [![React](https://img.shields.io/badge/react-aa00ff?style=for-the-badge&logo=react&logoColor=ffffff)](https://react.dev/)
 [![Node](https://img.shields.io/badge/node.js-00cc00?style=for-the-badge&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
@@ -46,9 +48,12 @@
 [![Java](https://img.shields.io/badge/java-ffcc00?style=for-the-badge&logo=openjdk&logoColor=000000)](https://java.com/)
 
 ## GitHub Stats:
-
+<details>
+  <summary>Stats</summary>
+  
 ![](https://github-readme-stats.vercel.app/api?username=Kaamkiya&theme=nord&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kaamkiya&theme=nord&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaamkiya&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</details>
