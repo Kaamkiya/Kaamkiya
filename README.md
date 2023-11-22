@@ -20,9 +20,7 @@
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org/)
 [![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
 [![Github](https://img.shields.io/badge/GIthub-ccaaff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/3.0.x/)
 [![P5.js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)](https://p5js.org/)
 [![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
@@ -40,6 +38,7 @@
 
 ## I kinda know:
 
+[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/3.0.x/)
 [![React](https://img.shields.io/badge/react-aa00ff?style=for-the-badge&logo=react&logoColor=ffffff)](https://react.dev/)
 [![Node](https://img.shields.io/badge/node.js-00cc00?style=for-the-badge&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![Rust](https://img.shields.io/badge/rust-00efcc?style=for-the-badge&logo=rust&logoColor=000000)](https://rust-lang.org/)
