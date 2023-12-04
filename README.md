@@ -45,14 +45,12 @@
 [![C](https://img.shields.io/badge/C-ff7700.svg?style=for-the-badge&logo=c&logoColor=white)](https://devdocs.io/c/)
 [![Ruby](https://img.shields.io/badge/ruby-ffffff?style=for-the-badge&logo=ruby&logoColor=ff0000)](https://ruby-lang.org/)
 [![Java](https://img.shields.io/badge/java-ffcc00?style=for-the-badge&logo=openjdk&logoColor=000000)](https://java.com/)
+[![LOLCODE](https://img.shields.io/badge/lolcode-ccaaff?style=for-the-badge&logo=LOLCODE&logoColor=000000)](https://lolcode.org/)
 
 ## GitHub Stats:
-<details>
-  <summary>Stats</summary>
-  
+
 ![](https://github-readme-stats.vercel.app/api?username=Kaamkiya&theme=nord&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kaamkiya&theme=nord&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaamkiya&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20)
-</details>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaamkiya&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
