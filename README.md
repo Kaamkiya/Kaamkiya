@@ -60,8 +60,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kaamkiya&theme=dark&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaamkiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=100)
 
-### 🏆 GitHub Trophies
+<!--### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kaamkiya&theme=dark&no-frame=true&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Kaamkiya&icon=0&color=1)](https://visitcount.itsvg.in)
+-->
