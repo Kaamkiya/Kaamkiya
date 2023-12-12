@@ -38,7 +38,7 @@
 
 ## I kinda know/Am learning:
 
-[![Intel x86-64 bit Assembly](https://img.shields.io/badge/x86__64%20asssembly-ff00aa?style=for-the-badge&logo=assembly&logoColor=ffffff)](https://www.intel.com/content/dam/develop/external/us/en/documents/introduction-to-x64-assembly-181178.pdf)
+[![Intel x86-64 bit Assembly](https://img.shields.io/badge/8664-x86__64%20Assembly-%23000000.svg?style=for-the-badge&logo=x86asm&logoColor=white)](https://www.intel.com/content/dam/develop/external/us/en/documents/introduction-to-x64-assembly-181178.pdf)
 [![C](https://img.shields.io/badge/C-ff7700.svg?style=for-the-badge&logo=c&logoColor=white)](https://devdocs.io/c/)
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/3.0.x/)
 [![React](https://img.shields.io/badge/react-aa00ff?style=for-the-badge&logo=react&logoColor=ffffff)](https://react.dev/)
