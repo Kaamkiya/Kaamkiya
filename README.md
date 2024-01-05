@@ -38,10 +38,13 @@
 
 ## I kinda know/Am learning:
 
-[![Intel x86-64 bit Assembly](https://img.shields.io/badge/8664-x86__64%20Assembly-%23000000.svg?style=for-the-badge&logo=x86asm&logoColor=white)](https://www.intel.com/content/dam/develop/external/us/en/documents/introduction-to-x64-assembly-181178.pdf)
+[![Intel x86-64 bit Assembly](https://img.shields.io/badge/X-x86__64%20Assembly-%23000000.svg?style=for-the-badge&logo=x86asm&logoColor=white)](https://www.intel.com/content/dam/develop/external/us/en/documents/introduction-to-x64-assembly-181178.pdf)
 [![C](https://img.shields.io/badge/C-ff7700.svg?style=for-the-badge&logo=c&logoColor=white)](https://devdocs.io/c/)
+[![Nim](https://img.shields.io/badge/Nim-2c2c3b.svg?style=for-the-badge&logo=nim&logoColor=yellow)](https://nim-lang.org/)
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/3.0.x/)
 [![React](https://img.shields.io/badge/react-aa00ff?style=for-the-badge&logo=react&logoColor=ffffff)](https://react.dev/)
+[![Deno](https://img.shields.io/badge/deno-000000?style=for-the-badge&logo=deno&logoColor=ffffff)](https://deno.land/)
+[![Fresh](https://img.shields.io/badge/fresh-ffd700?style=for-the-badge&logo=deno&logoColor=000000)](https://fresh.deno.dev/)
 [![Node](https://img.shields.io/badge/node.js-00cc00?style=for-the-badge&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![Rust](https://img.shields.io/badge/rust-00efcc?style=for-the-badge&logo=rust&logoColor=000000)](https://rust-lang.org/)
 [![Ruby](https://img.shields.io/badge/ruby-ffffff?style=for-the-badge&logo=ruby&logoColor=ff0000)](https://ruby-lang.org/)
@@ -49,9 +52,9 @@
 [![LOLCODE](https://img.shields.io/badge/lolcode-ccaaff?style=for-the-badge&logo=LOLCODE&logoColor=000000)](https://lolcode.org/)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kaamkiya&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kaamkiya&theme=radical&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaamkiya&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=100)
+![](https://github-readme-stats.vercel.app/api?username=Kaamkiya&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kaamkiya&theme=algolia&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaamkiya&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=100)
 
 <!--### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kaamkiya&theme=dark&no-frame=true&no-bg=true&margin-w=4)
