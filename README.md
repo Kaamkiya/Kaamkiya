@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 
-* 🌱 I’m currently learning Go and C++.
+* 🌱 I’m currently learning Go and Assembly.
 * 🌱 I'm doing the #12in24 challenge and trying out 1 new language a month.
 * 💬 Ask me about p5.js
 * ⚡ Fun fact: I speak 🇬🇧, 🇫🇷, and I'm learning 🇪🇸.
@@ -45,16 +45,13 @@
 [![React](https://img.shields.io/badge/react-aa00ff?style=for-the-badge&logo=react&logoColor=ffffff)](https://react.dev/)
 [![Deno](https://img.shields.io/badge/deno-000000?style=for-the-badge&logo=deno&logoColor=ffffff)](https://deno.land/)
 [![Fresh](https://img.shields.io/badge/fresh-ffd700?style=for-the-badge&logo=deno&logoColor=000000)](https://fresh.deno.dev/)
-[![Node](https://img.shields.io/badge/node.js-00cc00?style=for-the-badge&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![Rust](https://img.shields.io/badge/rust-00efcc?style=for-the-badge&logo=rust&logoColor=000000)](https://rust-lang.org/)
-[![Ruby](https://img.shields.io/badge/ruby-ffffff?style=for-the-badge&logo=ruby&logoColor=ff0000)](https://ruby-lang.org/)
 [![Java](https://img.shields.io/badge/java-ffcc00?style=for-the-badge&logo=openjdk&logoColor=000000)](https://java.com/)
-[![LOLCODE](https://img.shields.io/badge/lolcode-ccaaff?style=for-the-badge&logo=LOLCODE&logoColor=000000)](https://lolcode.org/)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kaamkiya&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br>
+![](https://github-readme-stats.vercel.app/api?username=Kaamkiya&theme=algolia&rank_icon=github&include_all_commits=true&count_private=true)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kaamkiya&theme=algolia&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaamkiya&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=100)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaamkiya&theme=algolia&langs_count=10&layout=compact)
 
 <!--### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kaamkiya&theme=dark&no-frame=true&no-bg=true&margin-w=4)
