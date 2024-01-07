@@ -3,18 +3,19 @@
 ## 💫 About Me:
 
 * 🌱 I’m currently learning Go and C++.
+* 🌱 I'm doing the #12in24 challenge and trying out 1 new language a month.
 * 💬 Ask me about p5.js
-* ⚡ Fun fact: I speak two languages!
-* 👨‍💻 All of my projects are available at [https://kaamkiya.github.io/projects/](https://kaamkiya.github.io/projects/)
+* ⚡ Fun fact: I speak 🇬🇧, 🇫🇷, and I'm learning 🇪🇸.
+* 👨‍💻 All of my projects are available on my [GitHub site](https://kaamkiya.github.io/projects/)
 * 📝 I occasionally write articles on [DEV](dev.to/kaamkiya).
 * 📫 How to reach me: on [Scratch](https://scratch.mit.edu/users/Kaamkiya) or [DEV](https://dev.to).
 
 
-## Tech Stack:
+## 💻 Tech Stack:
 
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://w3schools.com/cpp/) 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org/)
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org/)
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://w3schools.com/cpp/) 
 [![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -28,15 +29,14 @@
 [![Github](https://img.shields.io/badge/Github-ccaaff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org/)
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://canva.com)
 
-## Connect with me:
+## 💬 Connect with me:
 
 [![DEV](https://img.shields.io/badge/DEV-AAAAFF?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kaamkiya/)
 [![CodeSandbox](https://img.shields.io/badge/CodeSandbox-ffaaff?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/kaamkiya)
 [![LeetCode](https://img.shields.io/badge/LeetCode-fccf00?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/kaamkiya/)
 
-## I kinda know/Am learning:
+## 🪴 I kinda know/Am learning:
 
 [![Intel x86-64 bit Assembly](https://img.shields.io/badge/X-x86__64%20Assembly-%23000000.svg?style=for-the-badge&logo=x86asm&logoColor=white)](https://www.intel.com/content/dam/develop/external/us/en/documents/introduction-to-x64-assembly-181178.pdf)
 [![C](https://img.shields.io/badge/C-ff7700.svg?style=for-the-badge&logo=c&logoColor=white)](https://devdocs.io/c/)
