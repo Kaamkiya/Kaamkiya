@@ -7,8 +7,8 @@
 * 💬 Ask me about p5.js
 * ⚡ Fun fact: I speak 🇬🇧, 🇫🇷, and I'm learning 🇪🇸.
 * 👨‍💻 All of my projects are available on my [GitHub site](https://kaamkiya.github.io/projects/)
-* 📝 I occasionally write articles on [DEV](dev.to/kaamkiya).
-* 📫 How to reach me: on [Scratch](https://scratch.mit.edu/users/Kaamkiya) or [DEV](https://dev.to).
+* 📝 I occasionally write articles on [DEV](https://dev.to/kaamkiya).
+* 📫 How to reach me: on [Scratch](https://scratch.mit.edu/users/Kaamkiya#comments) or [DEV](https://dev.to/kaamkiya).
 
 
 ## 💻 Tech Stack:
