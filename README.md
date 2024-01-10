@@ -50,7 +50,7 @@
 [![React](https://img.shields.io/badge/react-aa00ff?style=for-the-badge&logo=react&logoColor=ffffff)](https://react.dev/)
 [![Deno](https://img.shields.io/badge/deno-000000?style=for-the-badge&logo=deno&logoColor=ffffff)](https://deno.land/)
 [![Fresh](https://img.shields.io/badge/fresh-ffd700?style=for-the-badge&logo=deno&logoColor=000000)](https://fresh.deno.dev/)
-[![Rust](https://img.shields.io/badge/rust-00efcc?style=for-the-badge&logo=rust&logoColor=000000)](https://rust-lang.org/)
+[![Rust](https://img.shields.io/badge/rust-F04900.svg?style=for-the-badge&logo=rust&logoColor=white)](https://rust-lang.org/)
 [![Java](https://img.shields.io/badge/java-ffcc00?style=for-the-badge&logo=openjdk&logoColor=000000)](https://java.com/)
 
 ## 📊 GitHub Stats:
