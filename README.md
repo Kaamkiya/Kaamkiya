@@ -3,7 +3,7 @@
 ## 💫 About Me:
 
 * 🌱 I’m currently learning Go and Assembly.
-* 🌱 I'm doing the #12in24 challenge and trying out 1 new language a month.
+* 🌱 I'm doing the [#12in24](https://github.com/Kaamkiya/12in24) challenge and trying out 1 new language a month.
 * 💬 Ask me about p5.js
 * ⚡ Fun fact: I speak 🇬🇧, 🇫🇷, and I'm learning 🇪🇸.
 * 👨‍💻 All of my projects are available on my [GitHub site](https://kaamkiya.github.io/projects/)
@@ -49,9 +49,10 @@
 [![Java](https://img.shields.io/badge/java-ffcc00?style=for-the-badge&logo=openjdk&logoColor=000000)](https://java.com/)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kaamkiya&theme=algolia&rank_icon=github&include_all_commits=true&count_private=true)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kaamkiya&theme=algolia&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaamkiya&theme=algolia&langs_count=10&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Kaamkiya&theme=vue-dark&rank_icon=github&include_all_commits=true&count_private=true)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kaamkiya&theme=vue-dark&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaamkiya&theme=vue-dark&langs_count=10&layout=compact)<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaamkiya&radius=10&theme=vue&area=true&order=5" style="width:40vw;">
 
 <!--### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kaamkiya&theme=dark&no-frame=true&no-bg=true&margin-w=4)
