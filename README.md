@@ -30,7 +30,7 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
 
 [![Github](https://img.shields.io/badge/Github-ccaaff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)](https://codeberg.org/)
+[![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)](https://codeberg.org/Kaamkiya)
 [![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Glitch](https://img.shields.io/badge/Glitch-ff94b1.svg?style=for-the-badge&logo=glitch&logoColor=white)](https://glitch.me/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org/)
@@ -43,7 +43,7 @@
 
 ## 🪴 I kinda know/Am learning:
 
-[![Intel x86-64 bit Assembly](https://img.shields.io/badge/X-x86__64%20Assembly-%23000000.svg?style=for-the-badge&logo=x86asm&logoColor=white)](https://www.intel.com/content/dam/develop/external/us/en/documents/introduction-to-x64-assembly-181178.pdf)
+[![Intel x86-64 bit Assembly](https://img.shields.io/badge/x86__64%20Assembly-%23000000.svg?style=for-the-badge&logo=x86asm&logoColor=white)](https://www.intel.com/content/dam/develop/external/us/en/documents/introduction-to-x64-assembly-181178.pdf)
 [![C](https://img.shields.io/badge/C-ff7700.svg?style=for-the-badge&logo=c&logoColor=white)](https://devdocs.io/c/)
 [![Nim](https://img.shields.io/badge/Nim-2c2c3b.svg?style=for-the-badge&logo=nim&logoColor=yellow)](https://nim-lang.org/)
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/3.0.x/)
