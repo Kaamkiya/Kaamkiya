@@ -23,6 +23,7 @@
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![HAML](https://img.shields.io/badge/HAML-%23FFCC00.svg?style=for-the-badge&logo=haml&logoColor=white)](https://haml.info/)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+[![Scratch](https://img.shields.io/badge/Scratch-FFAB1A?style=for-the-badge&logo=scratch&logoColor=white)](https://scratch.mit.edu/users/Kaamkiya)
 
 [![P5.js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)](https://p5js.org/)
 [![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
@@ -38,7 +39,8 @@
 ## 💬 Connect with me:
 
 [![DEV](https://img.shields.io/badge/DEV-AAAAFF?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kaamkiya/)
-[![CodeSandbox](https://img.shields.io/badge/CodeSandbox-ffaaff?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/kaamkiya)
+[![CodeWars](https://img.shields.io/badge/CodeWars-F05656?style=for-the-badge&logo=codewars&logoColor=white)](https://codewars.com/users/Kaamkiya)
+[![Exercism](https://img.shields.io/badge/Exercism-3B2A93?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/Kaamkiya)
 [![LeetCode](https://img.shields.io/badge/LeetCode-fccf00?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/kaamkiya/)
 
 ## 🪴 I kinda know/Am learning:
