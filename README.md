@@ -2,9 +2,11 @@
 
 ## 💫 About Me:
 
-* 🌱 I’m currently learning Go and Assembly.
+* 🔭 I’m currently working on [devl](https://github.com/Kaamkiya/devl)
+* 🤝 I’m looking for help with [devl](https://github.com/Kaamkiya/devl)
+* 🌱 I’m currently learning Go and Assembly
 * 🌱 I'm doing the [#12in24](https://github.com/Kaamkiya/12in24) challenge and trying out 1 new language a month.
-* 💬 Ask me about p5.js
+* 💬 Ask me about p5js
 * ⚡ Fun fact: I speak 🇬🇧, 🇫🇷, and I'm learning 🇪🇸.
 * 👨‍💻 All of my projects are available on my [GitHub site](https://kaamkiya.github.io/projects/)
 * 📝 I occasionally write articles on [DEV](https://dev.to/kaamkiya).
