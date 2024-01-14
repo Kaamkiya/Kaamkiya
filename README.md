@@ -47,7 +47,7 @@
 
 ## 🪴 I kinda know/Am learning:
 
-[![Intel x86-64 bit Assembly](https://img.shields.io/badge/x86__64%20Assembly-%23000000.svg?style=for-the-badge&logo=x86asm&logoColor=white)](https://www.intel.com/content/dam/develop/external/us/en/documents/introduction-to-x64-assembly-181178.pdf)
+[![Intel x86-64 bit Assembly](https://img.shields.io/badge/x86__64%20Assembly-000000.svg?style=for-the-badge&logo=x86asm&logoColor=white)](https://www.intel.com/content/dam/develop/external/us/en/documents/introduction-to-x64-assembly-181178.pdf)
 [![Dart](https://img.shields.io/badge/dart-2BB7F6.svg?style=for-the-badge&logo=dart&logoColor=03599C)](https://dart.dev/)
 [![C](https://img.shields.io/badge/C-ff7700.svg?style=for-the-badge&logo=c&logoColor=white)](https://devdocs.io/c/)
 [![Nim](https://img.shields.io/badge/Nim-2c2c3b.svg?style=for-the-badge&logo=nim&logoColor=yellow)](https://nim-lang.org/)
@@ -56,14 +56,13 @@
 
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/3.0.x/)
 [![Deno](https://img.shields.io/badge/deno-000000?style=for-the-badge&logo=deno&logoColor=ffffff)](https://deno.land/)
-[![Fresh](https://img.shields.io/badge/fresh-ffd700?style=for-the-badge&logo=deno&logoColor=000000)](https://fresh.deno.dev/)
 
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Kaamkiya&theme=vue-dark&rank_icon=github&include_all_commits=true&count_private=true)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kaamkiya&theme=vue-dark&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaamkiya&theme=vue-dark&langs_count=10&layout=compact)<br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaamkiya&radius=10&theme=vue&area=true&order=5" style="width:40vw;">
+<!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaamkiya&radius=10&theme=vue&area=true&order=5" style="width:40vw;">-->
 
 <!--### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kaamkiya&theme=dark&no-frame=true&no-bg=true&margin-w=4)
