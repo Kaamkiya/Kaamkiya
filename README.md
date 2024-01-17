@@ -50,12 +50,11 @@
 [![Intel x86-64 bit Assembly](https://img.shields.io/badge/x86__64%20Assembly-000000.svg?style=for-the-badge&logo=x86asm&logoColor=white)](https://www.intel.com/content/dam/develop/external/us/en/documents/introduction-to-x64-assembly-181178.pdf)
 [![Dart](https://img.shields.io/badge/dart-2BB7F6.svg?style=for-the-badge&logo=dart&logoColor=03599C)](https://dart.dev/)
 [![C](https://img.shields.io/badge/C-ff7700.svg?style=for-the-badge&logo=c&logoColor=white)](https://devdocs.io/c/)
-[![Nim](https://img.shields.io/badge/Nim-2c2c3b.svg?style=for-the-badge&logo=nim&logoColor=yellow)](https://nim-lang.org/)
-[![Rust](https://img.shields.io/badge/rust-F04900.svg?style=for-the-badge&logo=rust&logoColor=white)](https://rust-lang.org/)
 [![Java](https://img.shields.io/badge/java-ffcc00?style=for-the-badge&logo=openjdk&logoColor=000000)](https://java.com/)
 
-[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/3.0.x/)
+[![Flask](https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/3.0.x/)
 [![Deno](https://img.shields.io/badge/deno-000000?style=for-the-badge&logo=deno&logoColor=ffffff)](https://deno.land/)
+[![AlpineJS](https://img.shields.io/badge/alpinejs-333344.svg?style=for-the-badge&logo=alpinedotjs)](https://alpinejs.dev)
 
 ## 📊 GitHub Stats:
 
