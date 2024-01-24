@@ -60,7 +60,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Kaamkiya&theme=vue-dark&rank_icon=github&include_all_commits=true&count_private=true)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kaamkiya&theme=vue-dark&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaamkiya&theme=vue-dark&langs_count=12&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Kaamkiya&langs_count=12&layout=compact&theme=vue-dark&exclude_repo=devldoc)<br>
 <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaamkiya&radius=10&theme=vue&area=true&order=5" style="width:40vw;">-->
 
 <!--### 🏆 GitHub Trophies
