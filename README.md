@@ -15,28 +15,35 @@
 
 ## 💻 Tech Stack:
 
-[![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org/)
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://w3schools.com/cpp/) 
-[![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![HAML](https://img.shields.io/badge/HAML-%23FFCC00.svg?style=for-the-badge&logo=haml&logoColor=white)](https://haml.info/)
-[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-[![Scratch](https://img.shields.io/badge/Scratch-FFAB1A?style=for-the-badge&logo=scratch&logoColor=white)](https://scratch.mit.edu/users/Kaamkiya)
+### Languages I speak
 
-[![P5.js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)](https://p5js.org/)
-[![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
-[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go,py,cpp,bash,ts,js,css,html,markdown" title="Go,Python,C++,Bash,TypeScript,JavaScript,CSS,HTML,Markdown">
+</div>
 
-[![Github](https://img.shields.io/badge/Github-ccaaff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)](https://codeberg.org/Kaamkiya)
-[![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Glitch](https://img.shields.io/badge/Glitch-ff94b1.svg?style=for-the-badge&logo=glitch&logoColor=white)](https://glitch.me/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org/)
+### Martial arts I know
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=deno,threejs,flask,numpy" title="Deno,ThreeJS,Flask,Numpy">
+</div>
+
+### Where I keep my stuff
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=sqlite" title="JSON,YAML,TOML,SQLite3">
+</div>
+
+### Stuff in my workshop
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vim,linux,git,github,emacs" title="Vim,Linux,Git,GitHub,Emacs">
+</div>
+
+### Things I'm learning
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,django,alpinejs" title="C,Django,AlpineJS">
+</div>
 
 ## 💬 Connect with me:
 
@@ -44,17 +51,6 @@
 [![CodeWars](https://img.shields.io/badge/CodeWars-F05656?style=for-the-badge&logo=codewars&logoColor=white)](https://codewars.com/users/Kaamkiya)
 [![Exercism](https://img.shields.io/badge/Exercism-3B2A93?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/Kaamkiya)
 [![LeetCode](https://img.shields.io/badge/LeetCode-fccf00?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/kaamkiya/)
-
-## 🪴 I kinda know/Am learning:
-
-[![Intel x86-64 bit Assembly](https://img.shields.io/badge/x86__64%20Assembly-000000.svg?style=for-the-badge&logo=x86asm&logoColor=white)](https://www.intel.com/content/dam/develop/external/us/en/documents/introduction-to-x64-assembly-181178.pdf)
-[![Dart](https://img.shields.io/badge/dart-2BB7F6.svg?style=for-the-badge&logo=dart&logoColor=03599C)](https://dart.dev/)
-[![C](https://img.shields.io/badge/C-ff7700.svg?style=for-the-badge&logo=c&logoColor=white)](https://devdocs.io/c/)
-[![Java](https://img.shields.io/badge/java-ffcc00?style=for-the-badge&logo=openjdk&logoColor=000000)](https://java.com/)
-
-[![Flask](https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/3.0.x/)
-[![Deno](https://img.shields.io/badge/deno-000000?style=for-the-badge&logo=deno&logoColor=ffffff)](https://deno.land/)
-[![AlpineJS](https://img.shields.io/badge/alpinejs-333344.svg?style=for-the-badge&logo=alpinedotjs)](https://alpinejs.dev)
 
 ## 📊 GitHub Stats:
 
