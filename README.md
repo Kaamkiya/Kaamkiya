@@ -24,7 +24,7 @@
 ### Martial arts I know
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=deno,threejs,flask,numpy" title="Deno,ThreeJS,Flask,Numpy">
+  <img src="https://skillicons.dev/icons?i=deno,p5js,threejs,flask,numpy" title="Deno,P5JS,ThreeJS,Flask,Numpy">
 </div>
 
 ### Where I keep my stuff
