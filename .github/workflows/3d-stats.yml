@@ -1,22 +1,17 @@
-name: GitHub-Profile-3D-Contrib
+name: Generate 3D Github Contribution statistics
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
-  workflow_dispatch:
+  # run automatically every 24 hours
+  schedule:
+    - cron: "0 */24 * * *" 
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v2
-      - uses: yoshi389111/github-profile-3d-contrib@0.6.0
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git add -A .
-          git commit -m "generated 3d stats"
-          git push
