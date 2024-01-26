@@ -1,4 +1,4 @@
-name: Generate 3D Github Contribution statistics
+name: GH-Profile-3D-Contrib
 
 on:
   # run automatically every 24 hours
