@@ -42,7 +42,7 @@
 ### Things I'm learning
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,django,alpinejs" title="C,Django,AlpineJS">
+  <img src="https://skillicons.dev/icons?i=c,django,lit,d" title="C,Django,LitJS,D">
 </div>
 
 ## 💬 Connect with me:
