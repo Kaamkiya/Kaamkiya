@@ -1,0 +1,27 @@
+name: Github 3d stats
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit and Push
+        run: |
+          git config --global user.name github-actions
+          git config --global user.email github-actions@github.com
+          git add -A .
+          git commit -m "Generated 3d stats from $(pwd)"
+          git push
