@@ -54,13 +54,23 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Kaamkiya&theme=vue-dark&rank_icon=github&include_all_commits=true&count_private=true)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kaamkiya&theme=vue-dark&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Kaamkiya&langs_count=12&layout=compact&theme=vue-dark&exclude_repo=devldoc)<br>
+![](https://github-readme-stats.vercel.app/api?username=Kaamkiya&theme=vue-dark&rank_icon=github&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kaamkiya&theme=vue-dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Kaamkiya&langs_count=12&layout=compact&theme=vue-dark&exclude_repo=devldoc)
 <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaamkiya&radius=10&theme=vue&area=true&order=5" style="width:40vw;">-->
-
 <img src="profile-3d-contrib/profile-season.svg" width="640px">
 
 <!--### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kaamkiya&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 -->
+
+
+<details>
+  <summary><h2>I've contributed to...</h2></summary>
+
+  ![](https://github-readme-stats.vercel.app/api/pin/?username=adambard&repo=learnxinyminutes-docs)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=adambard&repo=learnxinyminutes-site)](https://github.com/adambard/learnxinyminutes-site/)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=michalkuncio&repo=frontendhistory)](https://github.com/michalkuncio/frontendhistory/commits?author=Kaamkiya)
+  ![](https://github-readme-stats.vercel.app/api/pin/?username=arturo-lang&repo=arturo)
+  ![](https://github-readme-stats.vercel.app/api/pin/?username=forem&repo=forem)
+</details>
