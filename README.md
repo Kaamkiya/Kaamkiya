@@ -15,42 +15,33 @@
 
 ## 💻 Tech Stack:
 
-### Languages I speak
-
+##### Languages I speak
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go,py,cpp,bash,ts,js,css,html,markdown" title="Go,Python,C++,Bash,TypeScript,JavaScript,CSS,HTML,Markdown">
 </div>
 
-### Martial arts I know
-
+##### Martial arts I know
 <div align="center">
   <img src="https://skillicons.dev/icons?i=deno,p5js,threejs,flask,numpy" title="Deno,P5JS,ThreeJS,Flask,Numpy">
 </div>
 
-### Where I keep my stuff
+##### Where I keep my stuff
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=sqlite" title="JSON,YAML,TOML,SQLite3">
 </div>
 
-### Stuff in my workshop
+##### Tools in my workshop
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vim,linux,git,github,emacs" title="Vim,Linux,Git,GitHub,Emacs">
 </div>
 
-### Things I'm learning
+##### Things I'm learning
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,django,lit,d" title="C,Django,LitJS,D">
 </div>
-
-## 💬 Connect with me:
-
-[![DEV](https://img.shields.io/badge/DEV-AAAAFF?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kaamkiya/)
-[![CodeWars](https://img.shields.io/badge/CodeWars-F05656?style=for-the-badge&logo=codewars&logoColor=white)](https://codewars.com/users/Kaamkiya)
-[![Exercism](https://img.shields.io/badge/Exercism-3B2A93?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/Kaamkiya)
-[![LeetCode](https://img.shields.io/badge/LeetCode-fccf00?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/kaamkiya/)
 
 ## 📊 GitHub Stats:
 
@@ -64,9 +55,13 @@
 ![](https://github-profile-trophy.vercel.app/?username=Kaamkiya&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 -->
 
+## Contributions
+
+You can see all of the contributions I've made [here](https://github.com/issues?q=author%3AKaamkiya), the PRs
+[here](https://github.com/issues?q=author%3AKaamkiya+is%3Apr), and the issues [here](https://github.com/issues?q=author%3AKaamkiya+is%3Aissue). 
 
 <details>
-  <summary><h2>I've contributed to...</h2></summary>
+  <summary>I've contributed to...</summary>
 
   ![](https://github-readme-stats.vercel.app/api/pin/?username=adambard&repo=learnxinyminutes-docs)
   [![](https://github-readme-stats.vercel.app/api/pin/?username=adambard&repo=learnxinyminutes-site)](https://github.com/adambard/learnxinyminutes-site/)
@@ -74,3 +69,10 @@
   ![](https://github-readme-stats.vercel.app/api/pin/?username=arturo-lang&repo=arturo)
   ![](https://github-readme-stats.vercel.app/api/pin/?username=forem&repo=forem)
 </details>
+
+## 💬 Connect with me:
+
+[![DEV](https://img.shields.io/badge/DEV-AAAAFF?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kaamkiya/)
+[![CodeWars](https://img.shields.io/badge/CodeWars-F05656?style=for-the-badge&logo=codewars&logoColor=white)](https://codewars.com/users/Kaamkiya)
+[![Exercism](https://img.shields.io/badge/Exercism-3B2A93?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/Kaamkiya)
+[![LeetCode](https://img.shields.io/badge/LeetCode-fccf00?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/kaamkiya/)
