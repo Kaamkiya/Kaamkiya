@@ -17,7 +17,7 @@
 
 ##### Languages I speak
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,py,cpp,bash,ts,js,css,html,markdown" title="Go,Python,C++,Bash,TypeScript,JavaScript,CSS,HTML,Markdown">
+  <img src="https://skillicons.dev/icons?i=go,py,bash,ts,js,css,html,markdown" title="Go,Python,C++,Bash,TypeScript,JavaScript,CSS,HTML,Markdown">
 </div>
 
 ##### Martial arts I know
@@ -40,7 +40,7 @@
 ##### Things I'm learning
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,django,lit,d" title="C,Django,LitJS,D">
+  <img src="https://skillicons.dev/icons?i=c,d" title="C,D">
 </div>
 
 ## 📊 GitHub Stats:
