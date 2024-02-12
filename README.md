@@ -6,7 +6,7 @@
 * 🤝 I’m looking for help with [devl](https://github.com/Kaamkiya/devl)
 * 🌱 I’m currently learning Go and Assembly
 * 🌱 I'm doing the [#12in24](https://github.com/Kaamkiya/12in24) challenge and trying out 1 new language a month.
-* 💬 Ask me about p5js
+* 💬 Ask me about p5js or Go
 * ⚡ Fun fact: I speak 🇬🇧, 🇫🇷, and I'm learning 🇪🇸.
 * 👨‍💻 All of my projects are available on my [GitHub site](https://kaamkiya.github.io/projects/)
 * 📝 I occasionally write articles on [DEV](https://dev.to/kaamkiya).
@@ -16,32 +16,38 @@
 ## 💻 Tech Stack:
 
 ##### Languages I speak
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=go,py,bash,ts,js,css,html,markdown" title="Go,Python,C++,Bash,TypeScript,JavaScript,CSS,HTML,Markdown">
-</div>
+
+<img src="https://skillicons.dev/icons?i=go"   title="Gp">
+<img src="https://skillicons.dev/icons?i=py"   title="Python">
+<img src="https://skillicons.dev/icons?i=bash" title="Bash">
+<img src="https://skillicons.dev/icons?i=ts"   title="TypeScript">
+<img src="https://skillicons.dev/icons?i=js"   title="JavaScript">
+<img src="https://skillicons.dev/icons?i=css"  title="CSS">
+<img src="https://skillicons.dev/icons?i=html" title="HTML">
 
 ##### Martial arts I know
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=deno,p5js,threejs,flask,numpy" title="Deno,P5JS,ThreeJS,Flask,Numpy">
-</div>
+
+<img src="https://skillicons.dev/icons?i=deno"    title="Deno">
+<img src="https://skillicons.dev/icons?i=p5js"    title="P5JS">
+<img src="https://skillicons.dev/icons?i=threejs" title="ThreeJS">
+<img src="https://skillicons.dev/icons?i=flask"   title="Flask">
+<img src="https://skillicons.dev/icons?i=numpy"   title="Numpy">
 
 ##### Where I keep my stuff
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=sqlite" title="JSON,YAML,TOML,SQLite3">
-</div>
+<img src="https://skillicons.dev/icons?i=sqlite" title="SQLite3">
 
 ##### Tools in my workshop
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vim,linux,git,github,emacs" title="Vim,Linux,Git,GitHub,Emacs">
-</div>
+<img src="https://skillicons.dev/icons?i=vim"      title="Vim">
+<img src="https://skillicons.dev/icons?i=linux"    title="Linux">
+<img src="https://skillicons.dev/icons?i=git"      title="Git">
+<img src="https://skillicons.dev/icons?i=github"   title="Github">
+<img src="https://skillicons.dev/icons?i=markdown" title="Markdown">
 
 ##### Things I'm learning
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,d" title="C,D">
-</div>
+<img src="https://skillicons.dev/icons?i=c" title="C">
 
 ## 📊 GitHub Stats:
 
