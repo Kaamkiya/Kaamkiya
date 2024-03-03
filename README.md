@@ -1,5 +1,7 @@
 # Hi 👋, I'm Kaamkiya
 
+> ![NOTE] Mostly moved to [Codeberg](https://codeberg.org/Kaamkiya)
+
 ## 💫 About Me:
 
 * 🔭 I’m currently working on [devl](https://github.com/Kaamkiya/devl)
