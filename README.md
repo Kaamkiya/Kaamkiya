@@ -1,6 +1,7 @@
 # Hi 👋, I'm Kaamkiya
 
-> ![NOTE] Mostly moved to [Codeberg](https://codeberg.org/Kaamkiya)
+> ![NOTE]
+> Mostly moved to [Codeberg](https://codeberg.org/Kaamkiya)
 
 ## 💫 About Me:
 
