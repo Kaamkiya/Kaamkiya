@@ -1,6 +1,10 @@
 # Hi 👋, I'm Kaamkiya
 
-#### Mostly moved to [Codeberg](https://codeberg.org/Kaamkiya).
+### Mostly moved to [Codeberg](https://codeberg.org/Kaamkiya).
+
+Because of this:
+
+[![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/static/img/GiveUpGitHub.png)](https://sfconservancy.org/GiveUpGitHub/)
 
 ## 💫 About Me:
 
