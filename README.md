@@ -14,6 +14,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![V](https://img.shields.io/badge/V-%235D87BF.svg?style=for-the-badge&logo=v&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Platforms I use:
 ![GitHub](https://img.shields.io/badge/Github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -26,7 +28,7 @@
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-%2386BE43.svg?style=for-the-badge&logo=linuxmint&logoColor=white)
 ![i3](https://img.shields.io/badge/i3-%2352C0FF.svg?style=for-the-badge&logo=i3&logoColor=white)
-![Forgejo](https://img.shields.io/badge/Forgejo-%23FB923C.svg?style=for-the-badge&logo=i3&logoColor=white)
+![Forgejo](https://img.shields.io/badge/Forgejo-%23FB923C.svg?style=for-the-badge&logo=forgejo&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
 
 ### Martial arts I know:
@@ -34,6 +36,7 @@
 ![Deno](https://img.shields.io/badge/Deno-%23000000.svg?style=for-the-badge&logo=deno&logoColor=white)
 ![ChartJS](https://img.shields.io/badge/ChartJS-%23FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![P5JS](https://img.shields.io/badge/P5JS-%23ED225D.svg?style=for-the-badge&logo=p5dotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Bubbletea](https://img.shields.io/badge/Bubbletea-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ## 📊 GitHub Stats:
