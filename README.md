@@ -27,7 +27,7 @@
 ![NeoVim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-%2386BE43.svg?style=for-the-badge&logo=linuxmint&logoColor=white)
-![Void Linux](https://img.shields.io/badge/Linux%20Mint-%23478061.svg?style=for-the-badge&logo=voidlinux&logoColor=white)
+![Void Linux](https://img.shields.io/badge/Void%20Linux-%23478061.svg?style=for-the-badge&logo=voidlinux&logoColor=white)
 ![i3](https://img.shields.io/badge/i3-%2352C0FF.svg?style=for-the-badge&logo=i3&logoColor=white)
 ![Forgejo](https://img.shields.io/badge/Forgejo-%23FB923C.svg?style=for-the-badge&logo=forgejo&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
