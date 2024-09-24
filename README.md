@@ -31,6 +31,7 @@
 ![i3](https://img.shields.io/badge/i3-%2352C0FF.svg?style=for-the-badge&logo=i3&logoColor=white)
 ![Forgejo](https://img.shields.io/badge/Forgejo-%23FB923C.svg?style=for-the-badge&logo=forgejo&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Martial arts I know:
 
