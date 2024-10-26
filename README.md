@@ -1,6 +1,6 @@
 ## 💫 About Me:
 * 🔭 I'm currently working on **robotics with my school**
-* 🌱 I'm currently learning **Go, Java, coding robots, WPILib, and C++**
+* 🌱 I'm currently learning **Go, Java, coding robots, WPILib, and C**
 * 💬 Ask me about **Go or p5js**
 * ⚡ Fun fact: I wrote the [Learn X in Y minutes P5JS page](https://learnxinyminutes.com/docs/p5)
 
@@ -46,6 +46,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kaamkiya&theme=catppuccin_mocha&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Kaamkiya&layout=compact&theme=catppuccin_mocha)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Kaamkiya&layout=compact&theme=catppuccin_mocha&exclude_repo=dotfiles)
 
 ![](profile-3d-contrib/profile-season.svg)
