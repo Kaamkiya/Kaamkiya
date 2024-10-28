@@ -24,7 +24,7 @@
 
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-%23019733.svg?style=for-the-badge&logo=vim&logoColor=white)
-![NeoVim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-%2386BE43.svg?style=for-the-badge&logo=linuxmint&logoColor=white)
 ![Void Linux](https://img.shields.io/badge/Void%20Linux-%23478061.svg?style=for-the-badge&logo=voidlinux&logoColor=white)
@@ -42,7 +42,7 @@
 ![Bubbletea](https://img.shields.io/badge/Bubbletea-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kaamkiya&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Kaamkiya&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kaamkiya&theme=catppuccin_mocha&hide_border=false)
 
