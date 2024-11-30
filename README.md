@@ -25,7 +25,7 @@
 * Git
 * Vim/Neovim
 * Linux
-  * Void
+  * Void (daily driver)
   * Mint
   * Debian
   * ...more
