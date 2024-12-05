@@ -8,13 +8,13 @@
 
 ### Languages I speak:
 
-* Go (fluent, also my favorite)
-* Python (pretty good at it)
-* JavaScript/TypeScript (pretty good)
-* V (okay, learning)
+* Go (fluent)
+* V (learning)
+* Python (fluent)
+* JavaScript/TypeScript (good)
 * Bash (mediocre)
-* Java (suffering from mediocrity, don't love it but don't hate it either)
-* HTML/CSS (fluent, as long as I can use the MDN web docs)
+* Java (okay)
+* HTML/CSS (pretty good)
 
 ### Platforms I use:
 
