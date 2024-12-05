@@ -36,7 +36,7 @@
 ### Martial arts I know:
 
 * Deno (JS/TS)
-* ChatJS (JS)
+* ChartJS (JS)
 * P5JS (JS)
 * Flask (Python)
 * Charm (Go)
