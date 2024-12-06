@@ -16,28 +16,28 @@ SKILLS
   javascript:  bun, deno, astro, fresh, preact, p5js
 
 SOCIAL
-  Mastodon:   @nonexistent@hachyderm.io
-  HackerNews: kaamkiya
+  Mastodon:   <a href="https://hachyderm.io/@nonexistent" target="_blank">@nonexistent@hachyderm.io</a>
+  HackerNews: <a href="https://news.ycombinator.com/user?id=kaamkiya" target="_blank">kaamkiya</a>
 
 MISC
   pronouns: he/him
   wpm:      77 with 96% accuracy
 
 STATS
-  total commits:      310
-  total stars earned: 17
+  total commits:      304
+  total stars earned: 18
   issues opened:      20
   prs made:           8
   contributed to:     12
   languages:
-       - Go: 59.9%
-       - C: 11%
-       - Vim Script: 10.5%
-       - Shell: 8%
-       - Python: 4%
-       - JavaScript: 3%
-       - Astro: 2.4%
-       - CSS: 0.8%
+      - Go: 59.3%
+      - C: 10.8%
+      - Vim Script: 10.4%
+      - Shell: 7.9%
+      - Python: 5%
+      - JavaScript: 3%
+      - Astro: 2.4%
+      - CSS: 0.8%
      
 </pre>
 <!--
