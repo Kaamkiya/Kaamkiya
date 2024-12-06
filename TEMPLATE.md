@@ -17,7 +17,7 @@ SKILLS
 
 SOCIAL
   Mastodon:   <a href="https://hachyderm.io/@nonexistent" target="_blank">@nonexistent@hachyderm.io</a>
-  HackerNews: <a href="https://news.ycombinator.com/user?id=kaamkiya" target="_blank">kaamkiya</a>b
+  HackerNews: <a href="https://news.ycombinator.com/user?id=kaamkiya" target="_blank">kaamkiya</a>
 
 MISC
   pronouns: he/him
