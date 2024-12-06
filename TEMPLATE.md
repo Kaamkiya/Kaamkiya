@@ -16,8 +16,8 @@ SKILLS
   javascript:  bun, deno, astro, fresh, preact, p5js
 
 SOCIAL
-  Mastodon:   @nonexistent@hachyderm.io
-  HackerNews: kaamkiya
+  Mastodon:   <a href="https://hachyderm.io/@nonexistent" target="_blank">@nonexistent@hachyderm.io</a>
+  HackerNews: <a href="https://news.ycombinator.com/user?id=kaamkiya" target="_blank">kaamkiya</a>b
 
 MISC
   pronouns: he/him
@@ -31,7 +31,7 @@ STATS
   contributed to:     {{ REPOSITORIES_CONTRIBUTED_TO }}
   languages:
    {{ LANGUAGE_TEMPLATE_START:max=13 }}
-    - {{ LANGUAGE_NAME }}: {{ LANGUAGE_PERCENT }}%
+   - {{ LANGUAGE_NAME }}: {{ LANGUAGE_PERCENT }}%
    {{ LANGUAGE_TEMPLATE_END }}
   
 </pre>
