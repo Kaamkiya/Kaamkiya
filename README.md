@@ -23,8 +23,22 @@ MISC
   pronouns: he/him
   wpm:      77 with 96% accuracy
 
+STATS
+  total commits: 309
+  issues opened: 20
+  prs made:      8
+  languages:
+       - Go: 59.9
+       - C: 11
+       - Vim Script: 10.5
+       - Shell: 8
+       - Python: 4
+       - JavaScript: 3
+       - Astro: 2.4
+       - CSS: 0.8
+     
 </pre>
-  
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=Kaamkiya&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kaamkiya&theme=catppuccin_mocha&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Kaamkiya&layout=compact&langs_count=1000&theme=catppuccin_mocha&border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Kaamkiya&layout=compact&langs_count=1000&theme=catppuccin_mocha&border=false)-->
