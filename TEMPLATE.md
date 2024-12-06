@@ -24,12 +24,14 @@ MISC
   wpm:      77 with 96% accuracy
 
 STATS
-  total commits: {{ COMMITS }}
-  issues opened: {{ ISSUES }}
-  prs made:      {{ PULL_REQUESTS }}
+  total commits:      {{ COMMITS }}
+  total stars earned: {{ STARS }}
+  issues opened:      {{ ISSUES }}
+  prs made:           {{ PULL_REQUESTS }}
+  contributed to:     {{ REPOSITORIES_CONTRIBUTED_TO }}
   languages:
    {{ LANGUAGE_TEMPLATE_START:max=13 }}
-    - {{ LANGUAGE_NAME }}: {{ LANGUAGE_PERCENT }}
+    - {{ LANGUAGE_NAME }}: {{ LANGUAGE_PERCENT }}%
    {{ LANGUAGE_TEMPLATE_END }}
   
 </pre>
