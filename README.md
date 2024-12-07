@@ -7,6 +7,9 @@
  |_|\_\__,_|\__,_|_| |_| |_|_|\_\_|\__, |\__,_|
                                     __/ |      
                                    |___/       
+ABOUT
+   Hello! I'm Kaamkiya, a backend developer who mostly uses Go. Feel free to contribute to
+   any of my projects, they're all open for PRs and issues.
 
 SKILLS
   languages:   go, v, py, js, ts, html, css, sh
@@ -24,18 +27,18 @@ MISC
   wpm:      77 with 96% accuracy
 
 STATS
-  total commits:      309
+  total commits:      312
   total stars earned: 19
   issues opened:      20
   prs made:           8
   contributed to:     12
   languages:
-      - Go: 57.4%
-      - C: 10.5%
-      - Vim Script: 10%
-      - Python: 8.1%
-      - Shell: 7.6%
-      - JavaScript: 2.9%
+      - Go: 56.8%
+      - C: 10.4%
+      - Vim Script: 9.9%
+      - Python: 9.1%
+      - Shell: 7.5%
+      - JavaScript: 2.8%
       - Astro: 2.3%
       - CSS: 0.8%
      
