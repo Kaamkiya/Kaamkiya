@@ -24,19 +24,19 @@ MISC
   wpm:      77 with 96% accuracy
 
 STATS
-  total commits:      304
-  total stars earned: 18
+  total commits:      309
+  total stars earned: 19
   issues opened:      20
   prs made:           8
   contributed to:     12
   languages:
-      - Go: 59.3%
-      - C: 10.8%
-      - Vim Script: 10.4%
-      - Shell: 7.9%
-      - Python: 5%
-      - JavaScript: 3%
-      - Astro: 2.4%
+      - Go: 57.4%
+      - C: 10.5%
+      - Vim Script: 10%
+      - Python: 8.1%
+      - Shell: 7.6%
+      - JavaScript: 2.9%
+      - Astro: 2.3%
       - CSS: 0.8%
      
 </pre>
