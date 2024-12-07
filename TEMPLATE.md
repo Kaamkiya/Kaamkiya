@@ -7,6 +7,9 @@
  |_|\_\__,_|\__,_|_| |_| |_|_|\_\_|\__, |\__,_|
                                     __/ |      
                                    |___/       
+ABOUT
+   Hello! I'm Kaamkiya, a backend developer who mostly uses Go. Feel free to contribute to
+   any of my projects, they're all open for PRs and issues.
 
 SKILLS
   languages:   go, v, py, js, ts, html, css, sh
