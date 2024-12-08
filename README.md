@@ -27,9 +27,9 @@ MISC
   wpm:      77 with 96% accuracy
 
 STATS
-  total commits:      312
+  total commits:      309
   total stars earned: 19
-  issues opened:      20
+  issues opened:      21
   prs made:           8
   contributed to:     12
   languages:
