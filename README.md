@@ -29,13 +29,13 @@
   wpm:      77 with 96% accuracy
 
 <em>stats</em>
-  total commits:      332
+  total commits:      333
   total stars earned: 21
   issues opened:      21
   prs made:           8
   contributed to:     12
   languages:
-      - Go: 54.4%
+      - Go: 54.3%
       - Python: 12.9%
       - C: 9.9%
       - Vim Script: 9%
