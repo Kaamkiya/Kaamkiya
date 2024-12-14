@@ -29,7 +29,7 @@
   wpm:      77 with 96% accuracy
 
 <em>stats</em>
-  total commits:      343
+  total commits:      346
   total stars earned: 22
   issues opened:      21
   prs made:           8
@@ -43,7 +43,7 @@
       - JavaScript: 3.5%
       - HTML: 1.8%
       - CSS: 1%
-      - Lua: 1%
+      - Lua: 0.9%
    </pre>
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=Kaamkiya&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github)
