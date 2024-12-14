@@ -31,9 +31,9 @@
 <em>stats</em>
   total commits:      346
   total stars earned: 22
-  issues opened:      21
+  issues opened:      22
   prs made:           8
-  contributed to:     12
+  contributed to:     13
   languages:
       - Go: 54.6%
       - Python: 13.3%
