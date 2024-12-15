@@ -29,21 +29,23 @@
   wpm:      77 with 96% accuracy
 
 <em>stats</em>
-  total commits:      348
-  total stars earned: 22
+  total commits:      355
+  total stars earned: 23
   issues opened:      23
   prs made:           10
   contributed to:     13
   languages:
-      - Go: 54.6%
-      - Python: 13.3%
-      - C: 9.9%
-      - Vim Script: 7.3%
-      - Shell: 7.2%
-      - JavaScript: 3.5%
-      - HTML: 1.8%
+      - Go: 53%
+      - Python: 12.9%
+      - C: 10.8%
+      - Vim Script: 7%
+      - Shell: 7%
+      - JavaScript: 3.4%
+      - HTML: 1.7%
+      - Makefile: 1%
       - CSS: 1%
       - Lua: 0.9%
+      - Roff: 0.7%
    </pre>
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=Kaamkiya&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github)
