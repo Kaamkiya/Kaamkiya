@@ -30,7 +30,7 @@
 
 <em>stats</em>
   total commits:      362
-  total stars earned: 25
+  total stars earned: 26
   issues opened:      25
   prs made:           12
   contributed to:     13
