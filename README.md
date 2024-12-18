@@ -29,12 +29,12 @@
   wpm:      77 with 96% accuracy
 
 <em>stats</em>
-  total commits:      365
+  total commits:      366
   total stars earned: 27
-  issues opened:      26
+  issues opened:      27
   prs made:           12
-  contributed to:     13
-  languages:
+  contributed to:     14
+  <!--languages:
       - Go: 43.2%
       - C: 26.3%
       - Python: 10.5%
@@ -47,8 +47,9 @@
       - CSS: 0.8%
       - Lua: 0.7%
       - Roff: 0.6%
-   </pre>
-<!--
-![](https://github-readme-stats.vercel.app/api?username=Kaamkiya&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github)
+   -->
+</pre>
+
+![](https://github-readme-stats.vercel.app/api?username=Kaamkiya&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&rank_icon=percentile)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kaamkiya&theme=catppuccin_mocha&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Kaamkiya&layout=compact&langs_count=1000&theme=catppuccin_mocha&border=false)-->
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Kaamkiya&layout=compact&langs_count=1000&theme=catppuccin_mocha&border=false&exclude_repo=dotfiles,aoc-old)
