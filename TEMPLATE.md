@@ -14,9 +14,9 @@
    any of my projects, they're all open for PRs and issues.
 
 <em>skills</em>
-  languages:   go, v, py, js, ts, html, css, sh
+  languages:   go, py, js, ts, html, css, sh
   distros:     void, debian, mint
-  learning:    v, rs, c, java
+  learning:    zig, c, java, lua
   other stuff: sqlite, linux, vim
   javascript:  bun, deno, astro, fresh, preact, p5js
 
