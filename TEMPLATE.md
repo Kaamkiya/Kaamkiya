@@ -34,12 +34,12 @@
   issues opened:      {{ ISSUES }}
   prs made:           {{ PULL_REQUESTS }}
   contributed to:     {{ REPOSITORIES_CONTRIBUTED_TO }}
-  languages:
+  <!--languages:
    {{ LANGUAGE_TEMPLATE_START:max=13 }}
    - {{ LANGUAGE_NAME }}: {{ LANGUAGE_PERCENT }}%
-   {{ LANGUAGE_TEMPLATE_END }}
+   {{ LANGUAGE_TEMPLATE_END }}-->
 </pre>
-<!--
-![](https://github-readme-stats.vercel.app/api?username=Kaamkiya&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github)
+
+![](https://github-readme-stats.vercel.app/api?username=Kaamkiya&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&rank_icon=percentile)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kaamkiya&theme=catppuccin_mocha&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Kaamkiya&layout=compact&langs_count=1000&theme=catppuccin_mocha&border=false)-->
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Kaamkiya&layout=compact&langs_count=1000&theme=catppuccin_mocha&border=false&exclude_repo=dotfiles,aoc-old)
