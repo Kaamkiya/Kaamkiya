@@ -5,8 +5,8 @@ import sys
 import requests
 
 def update(thing, content, file):
-    return re.sub('<!--S:{thing}-->.*<!--E:{thing}-->',
-                  '<!--S:{thing}-->{content}<!--E:{thing}-->',
+    return re.sub(f'<!--S:{thing}-->.*<!--E:{thing}-->',
+                  f'<!--S:{thing}-->{content}<!--E:{thing}-->',
                   file)
 
 if __name__ == '__main__':
