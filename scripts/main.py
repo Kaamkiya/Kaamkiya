@@ -120,7 +120,7 @@ if __name__ == "__main__":
     lang_fmt = os.getenv("LANG_FMT")
     lang_str = ""
     total_bytes = sum(langs.values())
-    langs = sorted(langs, key=lambda i: i[1])
+    langs = sorted(langs.items(), key=lambda i: i[1])
     for lang, byte_count in reversed(langs):
         lang_str += (
             lang_fmt.replace("$name", lang).replace(
