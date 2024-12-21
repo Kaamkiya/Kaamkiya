@@ -69,7 +69,7 @@ if __name__ == '__main__':
             }
         }'''
 
-    gh_res = requests.post('https://api.github.com/graphql', json.dumps({ 'query': req }), headers=gh_headers)
+    gh_res = requests.post('https://api.github.com/graphql', json.dumps({ 'query': gh_req }), headers=gh_headers)
     if not res.ok or 'data' not in res.json():
         print(res.status_code)
         print(res.text)
