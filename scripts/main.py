@@ -13,7 +13,7 @@ if __name__ == '__main__':
         sys.exit(1)
 
     headers = {
-        'Authorization': f'token {token}'
+        'Authorization': f'bearer {token}'
     }
 
     req = '''
