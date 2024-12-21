@@ -109,7 +109,7 @@ if __name__ == '__main__':
     for lang in list(langs.keys()):
         lang_str += lang_fmt.replace('$name', lang).replace('$percent', str(round(langs[lang], 2))) + '\n'
 
-    contents = update('LANGUAGES', lang_str)
+    contents = update('LANGUAGES', lang_str, contents)
 
     if os.getenv('MT_TOKEN') != '':
         mt_headers = {
