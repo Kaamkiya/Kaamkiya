@@ -33,7 +33,7 @@ stats
   contributed to: <!--S:CONTRIBUTED_TO-->14<!--E:CONTRIBUTED_TO-->
   issues opened:  <!--S:ISSUES_OPENED-->28<!--E:ISSUES_OPENED-->
   prs opened:     <!--S:PRS_OPENED-->12<!--E:PRS_OPENED-->
-  repo count:     <!--S:REPO_COUNT-->14<!--E:REPO_COUNT-->
+  repo count:     <!--S:REPO_COUNT-->13<!--E:REPO_COUNT-->
   gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT-->
   languages:
 <!--S:LANGUAGES-->    - Go: 64.97%
