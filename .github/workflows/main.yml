@@ -24,7 +24,7 @@ jobs:
       - name: Update README
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          LANG_FMT: '    - $name: $percent'
+          LANG_FMT: '    - $name: $percent%'
           README: 'README.md'
           IGNORE_REPOS: 'dotfiles,aoc-old'
 
