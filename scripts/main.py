@@ -128,7 +128,7 @@ if __name__ == '__main__':
         contents = update('MT_WPM',      mt_wpm, contents)
         contents = update('MT_ACCURACY', mt_acc, contents)
 
-        mt_res = requests.get(f'https://api.monkeytype.com/users/{mt_data[0]['name']}', headers=mt_headers)
+        mt_res = requests.get(f'https://api.monkeytype.com/users/{mt_data[0]['name']}/profile', headers=mt_headers)
         if not mt_res.ok:
             print(mt_res.status_code)
             print(mt_res.text)
