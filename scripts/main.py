@@ -103,6 +103,13 @@ if __name__ == '__main__':
                       datetime.now().year - int(data['createdAt'].split('-')[0]),
                       contents)
     contents = update('STARS_EARNED', stars, contents)
+    
+    lang_fmt = os.getenv('LANG_FMT')
+    lang_str = ''
+    for lang in list(langs.keys()):
+        lang_str += lang_fmt.replace('$name', lang).replace('$percent', langs[lang]) + '\n'
+
+    contents = update('LANGUAGES', lang_str)
 
     if os.getenv('MT_TOKEN') != '':
         mt_headers = {

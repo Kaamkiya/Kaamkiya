@@ -25,6 +25,7 @@ jobs:
         env:
           README: 'README.md'
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          LANG_FMT: '    - $name: $percent'
           MT_TOKEN: ${{ secrets.MT_TOKEN }}
         run: python scripts/main.py
       - name: Commit updates
