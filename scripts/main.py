@@ -4,6 +4,11 @@ import sys
 
 import requests
 
+def update(thing, content, file):
+    return re.sub('<!--S:{thing}-->.*<!--E:{thing}-->',
+                  '<!--S:{thing}-->{content}<!--E:{thing}-->',
+                  file)
+
 if __name__ == '__main__':
     readme_file = sys.argv[1]
     if readme_file == '':
@@ -69,9 +74,9 @@ if __name__ == '__main__':
 
     data = res.json()['data']['viewer']
 
-    contents = re.sub('<!--S:ISSUES_OPENED-->.*<!--E:ISSUES_OPENED-->',
-                      '<!--S:ISSUES_OPENED-->%d<!--E:ISSUES_OPENED-->' % data['issues']['totalCount'],
-                      contents)
+    contents = update('ISSUES_OPENED', data['issues']['totalCount'], contents)
+    contents = update('PRS_OPENED', data['pullRequests']['totalCount'], contents)
+    contents = update('REPO_COUNT', data['repositories']['totalCount'], contents)
 
     with open(readme_file, 'w') as f:
         f.write(contents)
