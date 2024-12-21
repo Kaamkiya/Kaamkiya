@@ -78,28 +78,65 @@ if __name__ == '__main__':
 
     data = gh_res.json()['data']['viewer']
 
-    contents = update('ISSUES_OPENED', data['issues']['totalCount'], contents)
-    contents = update('PRS_OPENED', data['pullRequests']['totalCount'], contents)
-    contents = update('REPO_COUNT', data['repositories']['totalCount'], contents)
-    contents = update('GIST_COUNT', data['gists']['totalCount'], contents)
+    stars = 0
+    langs = {}
+    for repo in data['repositories']['nodes']:
+        stars += repo['stargazerCount']
+
+        for lang in repo['languages']['edges']:
+            lang_name = lang['node']['name']
+            if langs.get(lang_name, None) is None:
+                langs[lang_name] = 0
+            langs[lang_name] += lang['size']
+
+    for gist in data['gists']['nodes']:
+        stars += gist['stargazerCount']
+
+    contents = update('ISSUES_OPENED',  data['issues']['totalCount'],                    contents)
+    contents = update('PRS_OPENED',     data['pullRequests']['totalCount'],              contents)
+    contents = update('REPO_COUNT',     data['repositories']['totalCount'],              contents)
+    contents = update('GIST_COUNT',     data['gists']['totalCount'],                     contents)
     contents = update('CONTRIBUTED_TO', data['repositoriesContributedTo']['totalCount'], contents)
-    contents = update('FOLLOWERS', data['followers']['totalCount'], contents)
-    contents = update('FOLLOWING', data['following']['totalCount'], contents)
+    contents = update('FOLLOWERS',      data['followers']['totalCount'],                 contents)
+    contents = update('FOLLOWING',      data['following']['totalCount'],                 contents)
     contents = update('ACCOUNT_AGE',
                       datetime.now().year - int(data['createdAt'].split('-')[0]),
                       contents)
-    stars = 0
-    for repo in data['repositories']['nodes']:
-        stars += repo['stargazerCount']
-    for gist in data['gists']['nodes']:
-        stars += gist['stargazerCount']
     contents = update('STARS_EARNED', stars, contents)
 
     if os.getenv('MT_TOKEN') != '':
         mt_headers = {
             'Authorization': f'ApeKey {os.getenv('MT_TOKEN')}'
         }
-        mt_res = requests.get('https://api.monkeytype.com/results?limit=100', headers=mt_headers)
+        mt_res = requests.get('https://api.monkeytype.com/results?limit=10', headers=mt_headers)
+        if not mt_res.ok:
+            print(mt_res.status_code)
+            print(mt_res.text)
+            sys.exit(1)
+
+        mt_data = mt_res.json()['data']
+        
+        mt_wpm = 0
+        mt_acc = 0
+        for test in mt_data:
+            mt_wpm += test['wpm']
+            mt_acc += test['acc']
+
+        mt_wpm /= len(mt_data)
+        mt_acc /= len(mt_data)
+
+        contents = update('MT_WPM',      mt_wpm, contents)
+        contents = update('MT_ACCURACY', mt_acc, contents)
+
+        mt_res = requests.get(f'https://api.monkeytype.com/users/{mt_data[0]['name']}', headers=mt_headers)
+        if not mt_res.ok:
+            print(mt_res.status_code)
+            print(mt_res.text)
+            sys.exit(1)
+
+        mt_data = mt_res.json()['data']
+        contents = update('MT_XP',     mt_data['xp'],     contents)
+        contents = update('MT_STREAK', mt_data['streak'], contents)
 
     with open(readme_file, 'w') as f:
         f.write(contents)
