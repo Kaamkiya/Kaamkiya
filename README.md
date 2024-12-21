@@ -41,7 +41,7 @@ stats
     - Vim Script: 6861
     - Lua: 2516
     - C: 10416
-    - Python: 17580
+    - Python: 17755
     - JavaScript: 3375
     - CSS: 993
     - HTML: 1739
