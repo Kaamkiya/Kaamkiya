@@ -107,7 +107,7 @@ if __name__ == '__main__':
     lang_fmt = os.getenv('LANG_FMT')
     lang_str = ''
     for lang in list(langs.keys()):
-        lang_str += lang_fmt.replace('$name', lang).replace('$percent', langs[lang]) + '\n'
+        lang_str += lang_fmt.replace('$name', lang).replace('$percent', str(round(langs[lang], 2))) + '\n'
 
     contents = update('LANGUAGES', lang_str)
 
