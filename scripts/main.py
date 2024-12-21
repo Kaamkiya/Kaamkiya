@@ -47,6 +47,7 @@ if __name__ == '__main__':
                         totalCount
                         totalDiskUsage
                         nodes {
+                            name
                             stargazerCount
                             languages(first: 40) {
                                 edges {
@@ -80,14 +81,16 @@ if __name__ == '__main__':
 
     stars = 0
     langs = {}
+    ignore_repos = os.getenv('IGNORE_REPOS').split(',')
     for repo in data['repositories']['nodes']:
         stars += repo['stargazerCount']
 
-        for lang in repo['languages']['edges']:
-            lang_name = lang['node']['name']
-            if langs.get(lang_name, None) is None:
-                langs[lang_name] = 0
-            langs[lang_name] += lang['size']
+        if repo['name'] not in ignore_repos:
+            for lang in repo['languages']['edges']:
+                lang_name = lang['node']['name']
+                if langs.get(lang_name, None) is None:
+                    langs[lang_name] = 0
+                langs[lang_name] += lang['size']
 
     for gist in data['gists']['nodes']:
         stars += gist['stargazerCount']

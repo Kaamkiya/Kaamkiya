@@ -23,9 +23,11 @@ jobs:
           pip install -r requirements.txt
       - name: Update README
         env:
-          README: 'README.md'
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LANG_FMT: '    - $name: $percent'
+          README: 'README.md'
+          IGNORE_REPOS: 'dotfiles,aoc-old'
+
           MT_TOKEN: ${{ secrets.MT_TOKEN }}
         run: python scripts/main.py
       - name: Commit updates
