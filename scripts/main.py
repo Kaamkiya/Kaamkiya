@@ -1,4 +1,5 @@
 import json
+import re
 import sys
 
 import requests
@@ -7,6 +8,9 @@ if __name__ == '__main__':
     readme_file = sys.argv[1]
     if readme_file == '':
         readme_file = 'README.md'
+    with open(readme_file, 'r') as f:
+        contents = f.read()
+
     token = sys.argv[2]
     if token == '':
         sys.exit(1)
@@ -58,10 +62,17 @@ if __name__ == '__main__':
         }'''
 
     res = requests.post('https://api.github.com/graphql', json.dumps({ 'query': req }), headers=headers)
-    if not res.ok:
+    if not res.ok or 'data' not in res.json():
         print(res.status_code)
         print(res.text)
         sys.exit(1)
 
-    print(res.json())
+    data = res.json()['data']['viewer']
+
+    contents = re.sub('<!--S:ISSUES_OPENED-->.*<!--E:ISSUES_OPENED-->',
+                      '<!--S:ISSUES_OPENED-->%d<!--E:ISSUES_OPENED-->' % data['issues']['totalCount'],
+                      contents)
+
+    with open(readme_file, 'w') as f:
+        f.write(contents)
 
