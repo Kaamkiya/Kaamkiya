@@ -23,8 +23,10 @@ jobs:
           pip install -r requirements.txt
       - name: Update README
         env:
+          README: 'README.md'
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           MT_TOKEN: ${{ secrets.MT_TOKEN }}
-        run: python scripts/main.py README.md ${{ secrets.GH_TOKEN }}
+        run: python scripts/main.py
       - name: Commit updates
         run: |
           if [[ "$(git status --porcelain)" != "" ]]; then

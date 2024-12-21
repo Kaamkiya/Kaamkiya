@@ -13,13 +13,13 @@ def update(thing, content, file):
                   file)
 
 if __name__ == '__main__':
-    readme_file = sys.argv[1]
+    readme_file = os.getenv('README')
     if readme_file == '':
         readme_file = 'README.md'
     with open(readme_file, 'r') as f:
         contents = f.read()
 
-    token = sys.argv[2]
+    token = os.getenv('GH_TOKEN')
     if token == '':
         sys.exit(1)
 
