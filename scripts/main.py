@@ -63,6 +63,5 @@ if __name__ == '__main__':
         print(res.text)
         sys.exit(1)
 
-    data = res.json()['data']['viewer']
-    print(data)
+    print(res.json())
 
