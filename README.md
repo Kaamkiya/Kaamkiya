@@ -36,5 +36,18 @@ stats
   repo count:     <!--S:REPO_COUNT-->15<!--E:REPO_COUNT-->
   gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT-->
   languages:
-    <!--S:LANGUAGES--><!--E:LANGUAGES-->
+    <!--S:LANGUAGES-->    - Go: 60267
+    - Shell: 6809
+    - Vim Script: 6861
+    - Lua: 2516
+    - C: 10416
+    - Python: 17580
+    - JavaScript: 3375
+    - CSS: 993
+    - HTML: 1739
+    - V: 266570
+    - Makefile: 1013
+    - Roff: 749
+    - Brainfuck: 1129
+<!--E:LANGUAGES-->
 </pre>
