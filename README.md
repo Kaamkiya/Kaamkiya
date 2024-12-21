@@ -36,7 +36,7 @@ stats
   repo count:     <!--S:REPO_COUNT-->15<!--E:REPO_COUNT-->
   gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT-->
   languages:
-    <!--S:LANGUAGES-->    - Go: 60267
+<!--S:LANGUAGES-->    - Go: 60267
     - Shell: 6809
     - Vim Script: 6861
     - Lua: 2516

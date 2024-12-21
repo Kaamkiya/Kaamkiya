@@ -110,6 +110,9 @@ if __name__ == '__main__':
         lang_str += lang_fmt.replace('$name', lang).replace('$percent', str(round(langs[lang], 2))) + '\n'
 
     contents = update('LANGUAGES', lang_str, contents)
+    contents = re.sub(f'<!--S:LANGUAGES-->(.|\n)*<!--E:LANGUAGES-->',
+                      f'<!--S:LANGUAGES-->{lang_str}<!--E:LANGUAGES-->',
+                      contents)
 
     if os.getenv('MT_TOKEN') != '':
         mt_headers = {
