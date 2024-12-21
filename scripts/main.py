@@ -123,7 +123,7 @@ if __name__ == "__main__":
     for lang in list(langs.keys()):
         lang_str += (
             lang_fmt.replace("$name", lang).replace(
-                "$percent", str(round(langs[lang] / total_bytes, 2) * 100)
+                "$percent", str(round(langs[lang] / total_bytes * 100), 2)
             )
             + "\n"
         )
