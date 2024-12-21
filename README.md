@@ -36,6 +36,5 @@ stats
   repo count:     <!--S:REPO_COUNT-->15<!--E:REPO_COUNT-->
   gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT-->
   languages:
-    <!--S:LANGUAGES-->
-    <!--E:LANGUAGES-->
+    <!--S:LANGUAGES--><!--E:LANGUAGES-->
 </pre>
