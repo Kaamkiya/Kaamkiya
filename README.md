@@ -29,12 +29,12 @@ misc
   wpm:      <!--S:MT_WPM--><!--E:MT_WPM--> with <!--S:MT_ACCURACY--><!--E:MT_ACCURACY-->
 
 stats
-  stars earned:   <!--S:STARS_EARNED--><!--E:STARS_EARNED-->
-  contributed to: <!--S:CONTRIBUTED_TO--><!--E:CONTRIBUTED_TO-->
+  stars earned:   <!--S:STARS_EARNED-->28<!--E:STARS_EARNED-->
+  contributed to: <!--S:CONTRIBUTED_TO-->14<!--E:CONTRIBUTED_TO-->
   issues opened:  <!--S:ISSUES_OPENED-->28<!--E:ISSUES_OPENED-->
   prs opened:     <!--S:PRS_OPENED-->12<!--E:PRS_OPENED-->
   repo count:     <!--S:REPO_COUNT-->15<!--E:REPO_COUNT-->
-  gist count:     <!--S:GIST_COUNT--><!--E:GIST_COUNT-->
+  gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT-->
   languages:
     <!--S:LANGUAGES-->
     <!--E:LANGUAGES-->
