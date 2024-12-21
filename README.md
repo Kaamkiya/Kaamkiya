@@ -33,18 +33,17 @@ stats
   contributed to: <!--S:CONTRIBUTED_TO-->14<!--E:CONTRIBUTED_TO-->
   issues opened:  <!--S:ISSUES_OPENED-->28<!--E:ISSUES_OPENED-->
   prs opened:     <!--S:PRS_OPENED-->12<!--E:PRS_OPENED-->
-  repo count:     <!--S:REPO_COUNT-->15<!--E:REPO_COUNT-->
+  repo count:     <!--S:REPO_COUNT-->14<!--E:REPO_COUNT-->
   gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT-->
   languages:
-<!--S:LANGUAGES-->    - Go: 17.0%
-    - JavaScript: 1.0%
-    - CSS: 0.0%
-    - HTML: 0.0%
-    - Python: 5.0%
-    - V: 75.0%
-    - Makefile: 0.0%
-    - Roff: 0.0%
-    - C: 0.0%
-    - Brainfuck: 0.0%
+<!--S:LANGUAGES-->    - Go: 65.0%
+    - JavaScript: 4.0%
+    - CSS: 1.0%
+    - HTML: 2.0%
+    - Python: 22.0%
+    - Makefile: 1.0%
+    - Roff: 1.0%
+    - C: 1.0%
+    - Brainfuck: 1.0%
 <!--E:LANGUAGES-->
 </pre>
