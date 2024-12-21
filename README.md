@@ -32,7 +32,7 @@ stats
   total commits:  <!--S:COMMIT_COUNT--><!--E:COMMIT_COUNT-->
   stars earned:   <!--S:STARS_EARNED--><!--E:STARS_EARNED-->
   contributed to: <!--S:CONTRIBUTED_TO--><!--E:CONTRIBUTED_TO-->
-  issues opened:  <!--S:ISSUES_OPENED--><!--E:ISSUES_OPENED-->
+  issues opened:  <!--S:ISSUES_OPENED-->28<!--E:ISSUES_OPENED-->
   prs opened:     <!--S:PRS_OPENED--><!--E:PRS_OPENED-->
   repo count:     <!--S:REPO_COUNT--><!--E:REPO_COUNT-->
   gist count:     <!--S:GIST_COUNT--><!--E:GIST_COUNT-->
