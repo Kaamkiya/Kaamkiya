@@ -2,6 +2,8 @@ import json
 import re
 import sys
 
+from datetime import datetime
+
 import requests
 
 def update(thing, content, file):
@@ -20,11 +22,11 @@ if __name__ == '__main__':
     if token == '':
         sys.exit(1)
 
-    headers = {
+    gh_headers = {
         'Authorization': f'bearer {token}'
     }
 
-    req = '''
+    gh_req = '''
         query {
             viewer {
                 createdAt
@@ -44,6 +46,7 @@ if __name__ == '__main__':
                         totalCount
                         totalDiskUsage
                         nodes {
+                            stargazerCount
                             languages(first: 40) {
                                 edges {
                                     size
@@ -66,17 +69,36 @@ if __name__ == '__main__':
             }
         }'''
 
-    res = requests.post('https://api.github.com/graphql', json.dumps({ 'query': req }), headers=headers)
+    gh_res = requests.post('https://api.github.com/graphql', json.dumps({ 'query': req }), headers=gh_headers)
     if not res.ok or 'data' not in res.json():
         print(res.status_code)
         print(res.text)
         sys.exit(1)
 
-    data = res.json()['data']['viewer']
+    data = gh_res.json()['data']['viewer']
 
     contents = update('ISSUES_OPENED', data['issues']['totalCount'], contents)
     contents = update('PRS_OPENED', data['pullRequests']['totalCount'], contents)
     contents = update('REPO_COUNT', data['repositories']['totalCount'], contents)
+    contents = update('GIST_COUNT', data['gists']['totalCount'], contents)
+    contents = update('CONTRIBUTED_TO', data['repositoriesContributedTo']['totalCount'], contents)
+    contents = update('FOLLOWERS', data['followers']['totalCount'], contents)
+    contents = update('FOLLOWING', data['following']['totalCount'], contents)
+    contents = update('ACCOUNT_AGE',
+                      datetime.now().year - int(data['createdAt'].split('-')[0]),
+                      contents)
+    stars = 0
+    for repo in data['repositories']['nodes']:
+        stars += repo['stargazerCount']
+    for gist in data['gists']['nodes']:
+        stars += gist['stargazerCount']
+    contents = update('STARS_EARNED', stars, contents)
+
+    if os.getenv('MT_TOKEN') != '':
+        mt_headers = {
+            'Authorization': f'ApeKey {os.getenv('MT_TOKEN')}'
+        }
+        mt_res = requests.get('https://api.monkeytype.com/results?limit=100', headers=mt_headers)
 
     with open(readme_file, 'w') as f:
         f.write(contents)

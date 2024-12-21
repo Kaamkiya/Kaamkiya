@@ -29,7 +29,6 @@ misc
   wpm:      <!--S:MT_WPM--><!--E:MT_WPM--> with <!--S:MT_ACCURACY--><!--E:MT_ACCURACY-->
 
 stats
-  total commits:  <!--S:COMMIT_COUNT--><!--E:COMMIT_COUNT-->
   stars earned:   <!--S:STARS_EARNED--><!--E:STARS_EARNED-->
   contributed to: <!--S:CONTRIBUTED_TO--><!--E:CONTRIBUTED_TO-->
   issues opened:  <!--S:ISSUES_OPENED-->28<!--E:ISSUES_OPENED-->
