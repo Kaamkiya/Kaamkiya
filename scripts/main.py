@@ -1,14 +1,13 @@
 import json
-import os
 import sys
 
 import requests
 
 if __name__ == '__main__':
-    readme_file = os.getenv('readme')
+    readme_file = sys.argv[1]
     if readme_file == '':
         readme_file = 'README.md'
-    token = os.getenv('GH_TOKEN')
+    token = sys.argv[2]
     if token == '':
         sys.exit(1)
 
