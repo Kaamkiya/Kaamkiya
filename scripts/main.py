@@ -173,5 +173,13 @@ if __name__ == "__main__":
         contents = update("MT_XP", mt_data["xp"], contents)
         contents = update("MT_STREAK", mt_data["streak"], contents)
 
+    if os.getenv("HN_TOKEN") != "":
+        # do hackernews stuff here
+        pass
+
+    if os.getenv("MASTO_TOKEN") != "":
+        # do mastodon stuff here
+        pass
+
     with open(readme_file, "w") as f:
         f.write(contents)
