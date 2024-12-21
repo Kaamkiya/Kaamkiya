@@ -26,7 +26,7 @@ social
 
 misc
   pronouns: he/him
-  wpm:      <!--S:MT_WPM--><!--E:MT_WPM--> with <!--S:MT_ACCURACY--><!--E:MT_ACCURACY-->% accuracy
+  wpm:      <!--S:MT_WPM-->70.8<!--E:MT_WPM--> with <!--S:MT_ACCURACY-->96.6<!--E:MT_ACCURACY-->% accuracy
 
 stats
   stars earned:   <!--S:STARS_EARNED-->28<!--E:STARS_EARNED-->
