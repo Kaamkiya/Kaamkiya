@@ -119,11 +119,12 @@ if __name__ == "__main__":
 
     lang_fmt = os.getenv("LANG_FMT")
     lang_str = ""
+    langs = sorted(langs)
     total_bytes = sum(langs.values())
-    for lang in list(langs.keys()):
+    for lang, byte_count in langs.items():
         lang_str += (
             lang_fmt.replace("$name", lang).replace(
-                "$percent", str(round(langs[lang] / total_bytes * 100, 2))
+                "$percent", str(round(byte_count / total_bytes * 100, 2))
             )
             + "\n"
         )
