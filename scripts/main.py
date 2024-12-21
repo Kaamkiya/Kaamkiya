@@ -125,8 +125,8 @@ if __name__ == '__main__':
         mt_wpm /= len(mt_data)
         mt_acc /= len(mt_data)
 
-        contents = update('MT_WPM',      mt_wpm, contents)
-        contents = update('MT_ACCURACY', mt_acc, contents)
+        contents = update('MT_WPM',      round(mt_wpm, 1), contents)
+        contents = update('MT_ACCURACY', round(mt_acc, 1), contents)
 
         mt_res = requests.get(f'https://api.monkeytype.com/users/{mt_data[0]['name']}/profile', headers=mt_headers)
         if not mt_res.ok:
