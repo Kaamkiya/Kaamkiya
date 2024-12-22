@@ -137,7 +137,7 @@ if __name__ == "__main__":
     )
 
     if os.getenv("MT_TOKEN") != "":
-        mt_headers = {"Authorization": f'ApeKey {os.getenv('MT_TOKEN')}'}
+        mt_headers = {"Authorization": f"ApeKey {os.getenv("MT_TOKEN")}"}
         mt_res = requests.get(
             "https://api.monkeytype.com/results?limit=10", headers=mt_headers
         )
@@ -161,7 +161,7 @@ if __name__ == "__main__":
         contents = update("MT_ACCURACY", round(mt_acc, 1), contents)
 
         mt_res = requests.get(
-            f'https://api.monkeytype.com/users/{mt_data[0]['name']}/profile',
+            f"https://api.monkeytype.com/users/{mt_data[0]["name"]}/profile",
             headers=mt_headers,
         )
         if not mt_res.ok:
@@ -180,6 +180,17 @@ if __name__ == "__main__":
     if os.getenv("MASTO_TOKEN") != "":
         # do mastodon stuff here
         pass
+
+    if os.getenv("DUO_USERID") != "":
+        duo_res = requests.get(f"https://www.duolingo.com/2017-06-30/users/{os.getenv("DUO_USERID")")
+        if not duo_res.ok:
+            print(duo_res.status_code)
+            print(duo_res.text)
+            sys.exit(1)
+
+        duo_data = duo_res.json()
+        contents = update("DUO_XP",     duo_data["totalXp"], contents)
+        contents = update("DUO_STREAK", duo_data["streak"],  contents)
 
     with open(readme_file, "w") as f:
         f.write(contents)
