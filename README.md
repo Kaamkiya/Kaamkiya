@@ -22,7 +22,7 @@ skills
 
 social
   mastodon:   <a href="https://hachyderm.io/@nonexistent">@nonexistent@hachyderm.io</a>
-  hackernews: <a href="https://news.ycombinator.com/user?id=kaamkiya">kaamkiya</a> (karma: <!--S:HN_KARMA-->30<!--E:HN_KARMA-->)
+  hackernews: <a href="https://news.ycombinator.com/user?id=kaamkiya">kaamkiya</a> (karma: <!--S:HN_KARMA-->8<!--E:HN_KARMA-->)
 
 misc
   pronouns: he/him
@@ -37,14 +37,14 @@ stats
   repo count:     <!--S:REPO_COUNT-->13<!--E:REPO_COUNT-->
   gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT-->
   languages:
-<!--S:LANGUAGES-->    - Go: 64.4%
-    - Python: 23.0%
-    - JavaScript: 4.23%
-    - HTML: 2.18%
+<!--S:LANGUAGES-->    - Go: 64.1%
+    - Python: 23.36%
+    - JavaScript: 4.21%
+    - HTML: 2.17%
     - Brainfuck: 1.41%
     - C: 1.32%
-    - Makefile: 1.27%
+    - Makefile: 1.26%
     - CSS: 1.24%
-    - Roff: 0.94%
+    - Roff: 0.93%
 <!--E:LANGUAGES-->
 </pre>
