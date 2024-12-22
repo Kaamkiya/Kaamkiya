@@ -181,6 +181,7 @@ if __name__ == "__main__":
         # do mastodon stuff here
         pass
 
+    """# For some reason, duolingo's api works over curl but not requests.
     if os.getenv("DUO_USERID") != "":
         duo_res = requests.get(f"https://www.duolingo.com/2017-06-30/users/{os.getenv("DUO_USERID")}")
         if not duo_res.ok:
@@ -191,6 +192,7 @@ if __name__ == "__main__":
         duo_data = duo_res.json()
         contents = update("DUO_XP",     duo_data["totalXp"], contents)
         contents = update("DUO_STREAK", duo_data["streak"],  contents)
+    """
 
     with open(readme_file, "w") as f:
         f.write(contents)
