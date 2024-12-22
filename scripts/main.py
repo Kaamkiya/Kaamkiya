@@ -182,7 +182,7 @@ if __name__ == "__main__":
         pass
 
     if os.getenv("DUO_USERID") != "":
-        duo_res = requests.get(f"https://www.duolingo.com/2017-06-30/users/{os.getenv("DUO_USERID")")
+        duo_res = requests.get(f"https://www.duolingo.com/2017-06-30/users/{os.getenv("DUO_USERID")}")
         if not duo_res.ok:
             print(duo_res.status_code)
             print(duo_res.text)
