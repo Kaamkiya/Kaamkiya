@@ -141,38 +141,33 @@ if __name__ == "__main__":
         mt_res = requests.get(
             "https://api.monkeytype.com/results?limit=10", headers=mt_headers
         )
-        if not mt_res.ok:
-            print(mt_res.status_code)
-            print(mt_res.text)
-            sys.exit(1)
+        if mt_res.ok:
+            mt_data = mt_res.json()["data"]
 
-        mt_data = mt_res.json()["data"]
+            mt_wpm = 0
+            mt_acc = 0
+            for test in mt_data:
+                mt_wpm += test["wpm"]
+                mt_acc += test["acc"]
 
-        mt_wpm = 0
-        mt_acc = 0
-        for test in mt_data:
-            mt_wpm += test["wpm"]
-            mt_acc += test["acc"]
+            mt_wpm /= len(mt_data)
+            mt_acc /= len(mt_data)
 
-        mt_wpm /= len(mt_data)
-        mt_acc /= len(mt_data)
+            contents = update("MT_WPM", round(mt_wpm, 1), contents)
+            contents = update("MT_ACCURACY", round(mt_acc, 1), contents)
 
-        contents = update("MT_WPM", round(mt_wpm, 1), contents)
-        contents = update("MT_ACCURACY", round(mt_acc, 1), contents)
+            mt_res = requests.get(
+                f"https://api.monkeytype.com/users/{mt_data[0]["name"]}/profile",
+                headers=mt_headers,
+            )
 
-        mt_res = requests.get(
-            f"https://api.monkeytype.com/users/{mt_data[0]["name"]}/profile",
-            headers=mt_headers,
-        )
-        if not mt_res.ok:
-            print(mt_res.status_code)
-            print(mt_res.text)
-            sys.exit(1)
-
-        mt_data = mt_res.json()["data"]
-        contents = update("MT_XP", mt_data["xp"], contents)
-        contents = update("MT_STREAK", mt_data["streak"], contents)
-
+            mt_data = mt_res.json()["data"]
+            contents = update("MT_XP", mt_data["xp"], contents)
+            contents = update("MT_STREAK", mt_data["streak"], contents)
+    else:
+        print(mt_res.status_code)
+        print(mt_res.text)
+    
     if os.getenv("HN_USERNAME") != "":
         hn_res = requests.get(f"https://hacker-news.firebaseio.com/v0/user/{os.getenv("HN_USERNAME")}.json")
         if not hn_res.ok:
