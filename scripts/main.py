@@ -181,8 +181,8 @@ if __name__ == "__main__":
             sys.exit(1)
 
         hn_data = hn_res.json()
-        contents = update("HN_SUBMISSIONS", len(hn_data["submissions"]), contents)
-        contents = update("HN_KARMA",       hn_data["karma"],            contents)
+        contents = update("HN_SUBMISSIONS", len(hn_data["submitted"]), contents)
+        contents = update("HN_KARMA",       hn_data["karma"],          contents)
 
     if os.getenv("MASTO_TOKEN") != "":
         # do mastodon stuff here
