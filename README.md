@@ -37,14 +37,14 @@ stats
   repo count:     <!--S:REPO_COUNT-->13<!--E:REPO_COUNT-->
   gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT-->
   languages:
-<!--S:LANGUAGES-->    - Go: 64.97%
-    - Python: 22.32%
-    - JavaScript: 4.27%
-    - HTML: 2.2%
-    - Brainfuck: 1.43%
-    - C: 1.33%
-    - Makefile: 1.28%
-    - CSS: 1.26%
-    - Roff: 0.95%
+<!--S:LANGUAGES-->    - Go: 64.4%
+    - Python: 23.0%
+    - JavaScript: 4.23%
+    - HTML: 2.18%
+    - Brainfuck: 1.41%
+    - C: 1.32%
+    - Makefile: 1.27%
+    - CSS: 1.24%
+    - Roff: 0.94%
 <!--E:LANGUAGES-->
 </pre>
