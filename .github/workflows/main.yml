@@ -32,6 +32,8 @@ jobs:
           MT_TOKEN: ${{ secrets.MT_TOKEN }}
           # Duolingo
           DUO_USERID: ${{ secrets.DUO_USERID }}
+          # HackerNews
+          HN_USERNAME: kaamkiya
         run: python scripts/main.py
       - name: Commit updates
         run: |

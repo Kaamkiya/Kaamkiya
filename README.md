@@ -22,7 +22,7 @@ skills
 
 social
   mastodon:   <a href="https://hachyderm.io/@nonexistent">@nonexistent@hachyderm.io</a>
-  hackernews: <a href="https://news.ycombinator.com/user?id=kaamkiya">kaamkiya</a>
+  hackernews: <a href="https://news.ycombinator.com/user?id=kaamkiya">kaamkiya</a> (karma: <!--S:HN_KARMA-->30<!--E:HN_KARMA-->)
 
 misc
   pronouns: he/him

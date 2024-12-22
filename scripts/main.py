@@ -173,9 +173,16 @@ if __name__ == "__main__":
         contents = update("MT_XP", mt_data["xp"], contents)
         contents = update("MT_STREAK", mt_data["streak"], contents)
 
-    if os.getenv("HN_TOKEN") != "":
-        # do hackernews stuff here
-        pass
+    if os.getenv("HN_USERNAME") != "":
+        hn_res = requests.get(f"https://hacker-news.firebaseio.com/v0/user/{os.getenv("HN_USERNAME")}.json")
+        if not hn_res.ok:
+            print(hn_res.status_code)
+            print(hn_res.text)
+            sys.exit(1)
+
+        hn_data = hn_res.json()
+        contents = update("HN_SUBMISSIONS", len(hn_data["submissions"]), contents)
+        contents = update("HN_KARMA",       hn_data["karma"],            contents)
 
     if os.getenv("MASTO_TOKEN") != "":
         # do mastodon stuff here
