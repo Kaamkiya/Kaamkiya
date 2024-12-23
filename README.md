@@ -26,7 +26,7 @@ social
 
 misc
   pronouns: he/him
-  wpm:      <!--S:MT_WPM-->66.6<!--E:MT_WPM--> with <!--S:MT_ACCURACY-->95.7<!--E:MT_ACCURACY-->% accuracy
+  wpm:      <!--S:MT_WPM-->68.8<!--E:MT_WPM--> with <!--S:MT_ACCURACY-->96.5<!--E:MT_ACCURACY-->% accuracy
   <!--duolingo: < !--S:DUO_XP--><!--E:DUO_XP--> <!--XP-->
 
 stats
@@ -34,17 +34,17 @@ stats
   contributed to: <!--S:CONTRIBUTED_TO-->14<!--E:CONTRIBUTED_TO-->
   issues opened:  <!--S:ISSUES_OPENED-->28<!--E:ISSUES_OPENED-->
   prs opened:     <!--S:PRS_OPENED-->12<!--E:PRS_OPENED-->
-  repo count:     <!--S:REPO_COUNT-->13<!--E:REPO_COUNT-->
+  repo count:     <!--S:REPO_COUNT-->14<!--E:REPO_COUNT-->
   gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT-->
   languages:
-<!--S:LANGUAGES-->    - Go: 64.16%
-    - Python: 23.29%
-    - JavaScript: 4.21%
-    - HTML: 2.17%
-    - Brainfuck: 1.41%
-    - C: 1.32%
-    - Makefile: 1.26%
-    - CSS: 1.24%
-    - Roff: 0.93%
+<!--S:LANGUAGES-->    - Go: 65.15%
+    - Python: 22.65%
+    - JavaScript: 4.1%
+    - HTML: 2.11%
+    - Brainfuck: 1.37%
+    - C: 1.28%
+    - Makefile: 1.23%
+    - CSS: 1.21%
+    - Roff: 0.91%
 <!--E:LANGUAGES-->
 </pre>
