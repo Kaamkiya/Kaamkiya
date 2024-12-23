@@ -22,7 +22,7 @@ skills
 
 social
   mastodon:   <a href="https://hachyderm.io/@nonexistent">@nonexistent@hachyderm.io</a>
-  hackernews: <a href="https://news.ycombinator.com/user?id=kaamkiya">kaamkiya</a> (karma: <!--S:HN_KARMA-->8<!--E:HN_KARMA-->)
+  hackernews: <a href="https://news.ycombinator.com/user?id=kaamkiya">kaamkiya</a> (karma: <!--S:HN_KARMA-->9<!--E:HN_KARMA-->)
 
 misc
   pronouns: he/him
@@ -31,7 +31,7 @@ misc
 
 stats
   stars earned:   <!--S:STARS_EARNED-->28<!--E:STARS_EARNED-->
-  contributed to: <!--S:CONTRIBUTED_TO-->15<!--E:CONTRIBUTED_TO-->
+  contributed to: <!--S:CONTRIBUTED_TO-->14<!--E:CONTRIBUTED_TO-->
   issues opened:  <!--S:ISSUES_OPENED-->28<!--E:ISSUES_OPENED-->
   prs opened:     <!--S:PRS_OPENED-->12<!--E:PRS_OPENED-->
   repo count:     <!--S:REPO_COUNT-->13<!--E:REPO_COUNT-->
