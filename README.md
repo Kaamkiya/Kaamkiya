@@ -26,7 +26,7 @@ social
 
 misc
   pronouns: he/him
-  wpm:      <!--S:MT_WPM-->68.8<!--E:MT_WPM--> with <!--S:MT_ACCURACY-->96.5<!--E:MT_ACCURACY-->% accuracy
+  wpm:      <!--S:MT_WPM-->66.4<!--E:MT_WPM--> with <!--S:MT_ACCURACY-->95.6<!--E:MT_ACCURACY-->% accuracy
   <!--duolingo: < !--S:DUO_XP--><!--E:DUO_XP--> <!--XP-->
 
 stats
