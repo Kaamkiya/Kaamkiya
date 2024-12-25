@@ -26,25 +26,25 @@ social
 
 misc
   pronouns: he/him
-  wpm:      <!--S:MT_WPM-->69.9<!--E:MT_WPM--> with <!--S:MT_ACCURACY-->96.5<!--E:MT_ACCURACY-->% accuracy
+  wpm:      <!--S:MT_WPM-->71.6<!--E:MT_WPM--> with <!--S:MT_ACCURACY-->96.9<!--E:MT_ACCURACY-->% accuracy
   <!--duolingo: < !--S:DUO_XP--><!--E:DUO_XP--> <!--XP-->
 
 stats
-  stars earned:   <!--S:STARS_EARNED-->28<!--E:STARS_EARNED-->
-  contributed to: <!--S:CONTRIBUTED_TO-->16<!--E:CONTRIBUTED_TO-->
-  issues opened:  <!--S:ISSUES_OPENED-->28<!--E:ISSUES_OPENED-->
+  stars earned:   <!--S:STARS_EARNED-->30<!--E:STARS_EARNED-->
+  contributed to: <!--S:CONTRIBUTED_TO-->18<!--E:CONTRIBUTED_TO-->
+  issues opened:  <!--S:ISSUES_OPENED-->29<!--E:ISSUES_OPENED-->
   prs opened:     <!--S:PRS_OPENED-->13<!--E:PRS_OPENED-->
   repo count:     <!--S:REPO_COUNT-->14<!--E:REPO_COUNT-->
   gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT-->
   languages:
-<!--S:LANGUAGES-->    - Go: 65.15%
-    - Python: 22.65%
-    - JavaScript: 4.1%
-    - HTML: 2.11%
-    - Brainfuck: 1.37%
-    - C: 1.28%
-    - Makefile: 1.23%
-    - CSS: 1.21%
-    - Roff: 0.91%
+<!--S:LANGUAGES-->    - Go: 65.34%
+    - Python: 22.52%
+    - JavaScript: 4.07%
+    - HTML: 2.1%
+    - Brainfuck: 1.36%
+    - C: 1.27%
+    - Makefile: 1.22%
+    - CSS: 1.2%
+    - Roff: 0.9%
 <!--E:LANGUAGES-->
 </pre>
