@@ -30,7 +30,7 @@ misc
   <!--duolingo: < !--S:DUO_XP--><!--E:DUO_XP--> <!--XP-->
 
 stats
-  stars earned:   <!--S:STARS_EARNED-->30<!--E:STARS_EARNED-->
+  stars earned:   <!--S:STARS_EARNED-->31<!--E:STARS_EARNED-->
   contributed to: <!--S:CONTRIBUTED_TO-->18<!--E:CONTRIBUTED_TO-->
   issues opened:  <!--S:ISSUES_OPENED-->29<!--E:ISSUES_OPENED-->
   prs opened:     <!--S:PRS_OPENED-->14<!--E:PRS_OPENED-->
