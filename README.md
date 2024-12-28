@@ -22,11 +22,11 @@ skills
 
 social
   mastodon:   <a href="https://hachyderm.io/@nonexistent">@nonexistent@hachyderm.io</a>
-  hackernews: <a href="https://news.ycombinator.com/user?id=kaamkiya">kaamkiya</a> (karma: <!--S:HN_KARMA-->10<!--E:HN_KARMA-->)
+  hackernews: <a href="https://news.ycombinator.com/user?id=kaamkiya">kaamkiya</a> (karma: <!--S:HN_KARMA-->8<!--E:HN_KARMA-->)
 
 misc
   pronouns: he/him
-  wpm:      <!--S:MT_WPM-->71.9<!--E:MT_WPM--> with <!--S:MT_ACCURACY-->97.6<!--E:MT_ACCURACY-->% accuracy
+  wpm:      <!--S:MT_WPM-->70.3<!--E:MT_WPM--> with <!--S:MT_ACCURACY-->97.6<!--E:MT_ACCURACY-->% accuracy
   <!--duolingo: < !--S:DUO_XP--><!--E:DUO_XP--> <!--XP-->
 
 stats
@@ -34,18 +34,18 @@ stats
   contributed to: <!--S:CONTRIBUTED_TO-->19<!--E:CONTRIBUTED_TO-->
   issues opened:  <!--S:ISSUES_OPENED-->32<!--E:ISSUES_OPENED-->
   prs opened:     <!--S:PRS_OPENED-->14<!--E:PRS_OPENED-->
-  repo count:     <!--S:REPO_COUNT-->16<!--E:REPO_COUNT-->
+  repo count:     <!--S:REPO_COUNT-->17<!--E:REPO_COUNT-->
   gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT-->
   languages:
-<!--S:LANGUAGES-->    - Go: 61.66%
-    - Python: 21.91%
-    - AsciiDoc: 4.99%
-    - JavaScript: 3.84%
-    - HTML: 1.98%
-    - Brainfuck: 1.28%
-    - C: 1.2%
-    - Makefile: 1.15%
-    - CSS: 1.13%
-    - Roff: 0.85%
+<!--S:LANGUAGES-->    - Go: 60.43%
+    - Python: 21.47%
+    - AsciiDoc: 4.89%
+    - HTML: 4.24%
+    - JavaScript: 3.76%
+    - Brainfuck: 1.26%
+    - C: 1.18%
+    - Makefile: 1.13%
+    - Roff: 0.84%
+    - CSS: 0.81%
 <!--E:LANGUAGES-->
 </pre>
