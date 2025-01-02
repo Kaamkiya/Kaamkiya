@@ -16,8 +16,8 @@ about
 skills
   languages:   go, zig, py, js, ts, html, css
   distros:     void, mint, debian
-  learning:    zig, c, java
-  other stuff: sqlite, linux, vim, neovim
+  learning:    zig, java
+  other stuff: sqlite, postgres, linux, vim, neovim
   javascript:  chartjs, p5js, astro, bun, deno, fresh
 
 social
