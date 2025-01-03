@@ -30,17 +30,17 @@ misc
   <!--duolingo: < !--S:DUO_XP--><!--E:DUO_XP--> <!--XP-->
 
 stats
-  stars earned:   <!--S:STARS_EARNED-->32<!--E:STARS_EARNED-->
+  stars earned:   <!--S:STARS_EARNED-->33<!--E:STARS_EARNED-->
   contributed to: <!--S:CONTRIBUTED_TO-->21<!--E:CONTRIBUTED_TO-->
   issues opened:  <!--S:ISSUES_OPENED-->35<!--E:ISSUES_OPENED-->
   prs opened:     <!--S:PRS_OPENED-->14<!--E:PRS_OPENED-->
   repo count:     <!--S:REPO_COUNT-->17<!--E:REPO_COUNT-->
   gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT-->
   languages:
-<!--S:LANGUAGES-->    - Go: 62.36%
-    - Python: 17.93%
-    - HTML: 7.38%
-    - AsciiDoc: 4.09%
+<!--S:LANGUAGES-->    - Go: 62.38%
+    - Python: 17.92%
+    - HTML: 7.37%
+    - AsciiDoc: 4.08%
     - JavaScript: 3.32%
     - Brainfuck: 1.05%
     - C: 0.98%
