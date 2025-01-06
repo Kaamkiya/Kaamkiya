@@ -26,7 +26,7 @@ social
 
 misc
   pronouns: he/him
-  wpm:      <!--S:MT_WPM-->64.1<!--E:MT_WPM--> with <!--S:MT_ACCURACY-->95.9<!--E:MT_ACCURACY-->% accuracy
+  wpm:      <!--S:MT_WPM-->65.0<!--E:MT_WPM--> with <!--S:MT_ACCURACY-->96.6<!--E:MT_ACCURACY-->% accuracy
   <!--duolingo: < !--S:DUO_XP--><!--E:DUO_XP--> <!--XP-->
 
 stats
@@ -34,11 +34,11 @@ stats
   contributed to: <!--S:CONTRIBUTED_TO-->21<!--E:CONTRIBUTED_TO-->
   issues opened:  <!--S:ISSUES_OPENED-->35<!--E:ISSUES_OPENED-->
   prs opened:     <!--S:PRS_OPENED-->14<!--E:PRS_OPENED-->
-  repo count:     <!--S:REPO_COUNT-->17<!--E:REPO_COUNT-->
+  repo count:     <!--S:REPO_COUNT-->16<!--E:REPO_COUNT-->
   gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT-->
   languages:
-<!--S:LANGUAGES-->    - Go: 62.38%
-    - Python: 17.92%
+<!--S:LANGUAGES-->    - Go: 62.41%
+    - Python: 17.9%
     - HTML: 7.37%
     - AsciiDoc: 4.08%
     - JavaScript: 3.32%
