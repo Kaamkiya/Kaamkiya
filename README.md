@@ -38,7 +38,7 @@ stats
   gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT-->
   languages:
 <!--S:LANGUAGES-->    - Go: 63.73%
-    - Python: 17.01%
+    - Python: 17.03%
     - HTML: 7.0%
     - AsciiDoc: 3.88%
     - JavaScript: 3.15%
