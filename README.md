@@ -32,21 +32,21 @@ misc
 stats
   stars earned:   <!--S:STARS_EARNED-->36<!--E:STARS_EARNED-->
   contributed to: <!--S:CONTRIBUTED_TO-->22<!--E:CONTRIBUTED_TO-->
-  issues opened:  <!--S:ISSUES_OPENED-->39<!--E:ISSUES_OPENED-->
-  prs opened:     <!--S:PRS_OPENED-->16<!--E:PRS_OPENED-->
+  issues opened:  <!--S:ISSUES_OPENED-->42<!--E:ISSUES_OPENED-->
+  prs opened:     <!--S:PRS_OPENED-->18<!--E:PRS_OPENED-->
   repo count:     <!--S:REPO_COUNT-->16<!--E:REPO_COUNT-->
   gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT-->
   languages:
-<!--S:LANGUAGES-->    - Go: 63.73%
-    - Python: 17.03%
-    - HTML: 7.0%
-    - AsciiDoc: 3.88%
-    - JavaScript: 3.15%
-    - Shell: 1.05%
-    - Brainfuck: 1.0%
-    - C: 0.93%
-    - Makefile: 0.9%
-    - CSS: 0.68%
-    - Roff: 0.66%
+<!--S:LANGUAGES-->    - Go: 66.53%
+    - Python: 15.71%
+    - HTML: 6.46%
+    - AsciiDoc: 3.58%
+    - JavaScript: 2.91%
+    - Shell: 0.97%
+    - Brainfuck: 0.92%
+    - C: 0.86%
+    - Makefile: 0.83%
+    - CSS: 0.63%
+    - Roff: 0.61%
 <!--E:LANGUAGES-->
 </pre>
