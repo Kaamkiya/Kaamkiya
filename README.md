@@ -33,7 +33,7 @@ misc
 
 stats
   stars earned:   <!--S:STARS_EARNED-->38<!--E:STARS_EARNED-->
-  contributed to: <!--S:CONTRIBUTED_TO-->22<!--E:CONTRIBUTED_TO-->
+  contributed to: <!--S:CONTRIBUTED_TO-->21<!--E:CONTRIBUTED_TO-->
   issues opened:  <!--S:ISSUES_OPENED-->51<!--E:ISSUES_OPENED-->
   prs opened:     <!--S:PRS_OPENED-->26<!--E:PRS_OPENED-->
   repo count:     <!--S:REPO_COUNT-->16<!--E:REPO_COUNT-->
