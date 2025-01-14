@@ -24,6 +24,7 @@ skills
 
 social
   mastodon:   <a href="https://hachyderm.io/@nonexistent">@nonexistent@hachyderm.io</a>
+  lemmy:      <a href="https://lemmy.ml/u/kaamkiya">@kaamkiya@lemmy.ml</a>
   hackernews: <a href="https://news.ycombinator.com/user?id=kaamkiya">kaamkiya</a> (karma: <!--S:HN_KARMA-->9<!--E:HN_KARMA-->)
 
 misc
