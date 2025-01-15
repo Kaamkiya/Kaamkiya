@@ -38,12 +38,13 @@ Feel free to contribute to my projects, they're all open for help.
 - stars earned:   <!--S:STARS_EARNED-->46<!--E:STARS_EARNED--> :star:
 - contributed to: <!--S:CONTRIBUTED_TO-->22<!--E:CONTRIBUTED_TO--> :handshake:
 - issues opened:  <!--S:ISSUES_OPENED-->55<!--E:ISSUES_OPENED--> :bug:
-- prs opened:     <!--S:PRS_OPENED-->29<!--E:PRS_OPENED--> :inbox_tray:
+- prs opened:     <!--S:PRS_OPENED-->30<!--E:PRS_OPENED--> :inbox_tray:
 - repo count:     <!--S:REPO_COUNT-->16<!--E:REPO_COUNT--> :package:
 - gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT--> :pencil:
-- languages:<!--S:LANGUAGES-->    - Go: 62.62%
+- languages:<!--S:LANGUAGES-->
+    - Go: 62.62%
     - Python: 16.36%
-    - HTML: 6.73%
+    - HTML: 6.72%
     - AsciiDoc: 3.72%
     - JavaScript: 3.03%
     - Processing: 2.53%
