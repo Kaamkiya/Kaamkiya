@@ -29,13 +29,13 @@ social
 
 misc
   pronouns: he/him
-  wpm:      <!--S:MT_WPM-->67.3<!--E:MT_WPM--> with <!--S:MT_ACCURACY-->97.2<!--E:MT_ACCURACY-->% accuracy
+  wpm:      <!--S:MT_WPM-->66.7<!--E:MT_WPM--> with <!--S:MT_ACCURACY-->96.9<!--E:MT_ACCURACY-->% accuracy
   <!--duolingo: < !--S:DUO_XP--><!--E:DUO_XP--> <!--XP-->
 
 stats
   stars earned:   <!--S:STARS_EARNED-->45<!--E:STARS_EARNED-->
   contributed to: <!--S:CONTRIBUTED_TO-->22<!--E:CONTRIBUTED_TO-->
-  issues opened:  <!--S:ISSUES_OPENED-->51<!--E:ISSUES_OPENED-->
+  issues opened:  <!--S:ISSUES_OPENED-->53<!--E:ISSUES_OPENED-->
   prs opened:     <!--S:PRS_OPENED-->27<!--E:PRS_OPENED-->
   repo count:     <!--S:REPO_COUNT-->16<!--E:REPO_COUNT-->
   gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT-->
