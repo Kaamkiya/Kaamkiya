@@ -33,24 +33,24 @@ misc
   <!--duolingo: < !--S:DUO_XP--><!--E:DUO_XP--> <!--XP-->
 
 stats
-  stars earned:   <!--S:STARS_EARNED-->44<!--E:STARS_EARNED-->
+  stars earned:   <!--S:STARS_EARNED-->45<!--E:STARS_EARNED-->
   contributed to: <!--S:CONTRIBUTED_TO-->22<!--E:CONTRIBUTED_TO-->
   issues opened:  <!--S:ISSUES_OPENED-->51<!--E:ISSUES_OPENED-->
   prs opened:     <!--S:PRS_OPENED-->27<!--E:PRS_OPENED-->
   repo count:     <!--S:REPO_COUNT-->16<!--E:REPO_COUNT-->
   gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT-->
   languages:
-<!--S:LANGUAGES-->    - Go: 64.1%
-    - Python: 15.71%
-    - HTML: 6.46%
-    - AsciiDoc: 3.58%
-    - JavaScript: 2.91%
-    - Processing: 2.43%
-    - Shell: 0.97%
-    - Brainfuck: 0.92%
-    - C: 0.86%
-    - Makefile: 0.83%
-    - CSS: 0.63%
-    - Roff: 0.61%
+<!--S:LANGUAGES-->    - Go: 62.62%
+    - Python: 16.36%
+    - HTML: 6.73%
+    - AsciiDoc: 3.72%
+    - JavaScript: 3.03%
+    - Processing: 2.53%
+    - Shell: 1.01%
+    - Brainfuck: 0.96%
+    - C: 0.9%
+    - Makefile: 0.86%
+    - CSS: 0.65%
+    - Roff: 0.64%
 <!--E:LANGUAGES-->
 </pre>
