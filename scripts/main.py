@@ -118,7 +118,7 @@ if __name__ == "__main__":
     contents = update("STARS_EARNED", stars, contents)
 
     lang_fmt = os.getenv("LANG_FMT")
-    lang_str = ""
+    lang_str = "\n"
     total_bytes = sum(langs.values())
     langs = sorted(langs.items(), key=lambda i: i[1])
     for lang, byte_count in reversed(langs):
