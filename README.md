@@ -35,7 +35,7 @@ Feel free to contribute to my projects, they're all open for help.
   <!--duolingo: < !--S:DUO_XP--><!--E:DUO_XP--> <!--XP-->
 
 ### stats
-- stars earned:   <!--S:STARS_EARNED-->46<!--E:STARS_EARNED--> :star:
+- stars earned:   <!--S:STARS_EARNED-->47<!--E:STARS_EARNED--> :star:
 - contributed to: <!--S:CONTRIBUTED_TO-->22<!--E:CONTRIBUTED_TO--> :handshake:
 - issues opened:  <!--S:ISSUES_OPENED-->55<!--E:ISSUES_OPENED--> :bug:
 - prs opened:     <!--S:PRS_OPENED-->30<!--E:PRS_OPENED--> :inbox_tray:
