@@ -26,6 +26,7 @@ jobs:
           # GitHub stuff
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LANG_FMT: '    - $name: $percent%'
+          LANG_MAX: 10
           README: 'README.md'
           IGNORE_REPOS: 'dotfiles,aoc-old'
           # MonkeyType
