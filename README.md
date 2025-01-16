@@ -17,17 +17,17 @@ Feel free to contribute to my projects, they're all open for help.
 
 ### skills
 - Languages:   `go`, `zig`, `py`, `js`, `ts`, `html`, `css`
-- Distros:     Void, Mint, Debian
 - Learning:    `zig`, `java`
 - Databases:   `sqlite`, `postgres`
-- Other stuff: Linux, Vim, Neovim
-- Libraries:   Processing, Flask, Go-Chi, many more
 - Javascript:  `chartjs`, `p5js`, `astro`, `bun`, `deno`, `fresh`
+- Libraries:   Processing, Flask, Go-Chi, many more
+- Distros:     Void, Mint, Debian
+- Other stuff: Linux, Vim, Neovim
 
 ### social
-- mastodon:   <a href="https://hachyderm.io/@nonexistent">@nonexistent@hachyderm.io</a>
-- lemmy:      <a href="https://lemmy.ml/u/kaamkiya">@kaamkiya@lemmy.ml</a>
-- hackernews: <a href="https://news.ycombinator.com/user?id=kaamkiya">kaamkiya</a> (karma: <!--S:HN_KARMA-->9<!--E:HN_KARMA-->)
+- :elephant: Mastodon:   <a href="https://hachyderm.io/@nonexistent">@nonexistent@hachyderm.io</a>
+- :mouse: Lemmy:      <a href="https://lemmy.ml/u/kaamkiya">@kaamkiya@lemmy.ml</a>
+- :newspaper: HackerNews: <a href="https://news.ycombinator.com/user?id=kaamkiya">kaamkiya</a> (karma: <!--S:HN_KARMA-->9<!--E:HN_KARMA-->)
 
 ### misc
 - pronouns: he/him
