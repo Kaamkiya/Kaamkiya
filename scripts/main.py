@@ -121,6 +121,8 @@ if __name__ == "__main__":
     lang_str = "\n"
     total_bytes = sum(langs.values())
     langs = sorted(langs.items(), key=lambda i: i[1])
+    i = 0
+    lang_count = int(os.getenv('LANG_MAX') or 10)
     for lang, byte_count in reversed(langs):
         lang_str += (
             lang_fmt.replace("$name", lang).replace(
@@ -128,6 +130,9 @@ if __name__ == "__main__":
             )
             + "\n"
         )
+        i += 1
+        if i >= lang_count:
+            break
 
     contents = update("LANGUAGES", lang_str, contents)
     contents = re.sub(
