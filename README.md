@@ -38,10 +38,19 @@ Feel free to contribute to my projects, they're all open for help.
 - stars earned:   <!--S:STARS_EARNED-->47<!--E:STARS_EARNED--> :star:
 - contributed to: <!--S:CONTRIBUTED_TO-->23<!--E:CONTRIBUTED_TO--> :handshake:
 - issues opened:  <!--S:ISSUES_OPENED-->57<!--E:ISSUES_OPENED--> :bug:
-- prs opened:     <!--S:PRS_OPENED-->32<!--E:PRS_OPENED--> :inbox_tray:
+- prs opened:     <!--S:PRS_OPENED-->33<!--E:PRS_OPENED--> :inbox_tray:
 - repo count:     <!--S:REPO_COUNT-->16<!--E:REPO_COUNT--> :package:
 - gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT--> :pencil:
 - languages:<!--S:LANGUAGES-->
-    - YAHOO
+    - Go: 62.07%
+    - Python: 16.49%
+    - HTML: 6.67%
+    - AsciiDoc: 3.69%
+    - JavaScript: 3.0%
+    - Processing: 2.5%
+    - Shell: 1.0%
+    - Brainfuck: 0.95%
+    - C: 0.89%
+    - Makefile: 0.85%
 <!--E:LANGUAGES-->
 </pre>
