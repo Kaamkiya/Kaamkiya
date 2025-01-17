@@ -36,21 +36,21 @@ Feel free to contribute to my projects, they're all open for help.
 
 ### stats
 - stars earned:   <!--S:STARS_EARNED-->47<!--E:STARS_EARNED--> :star:
-- contributed to: <!--S:CONTRIBUTED_TO-->21<!--E:CONTRIBUTED_TO--> :handshake:
-- issues opened:  <!--S:ISSUES_OPENED-->56<!--E:ISSUES_OPENED--> :bug:
-- prs opened:     <!--S:PRS_OPENED-->31<!--E:PRS_OPENED--> :inbox_tray:
+- contributed to: <!--S:CONTRIBUTED_TO-->23<!--E:CONTRIBUTED_TO--> :handshake:
+- issues opened:  <!--S:ISSUES_OPENED-->57<!--E:ISSUES_OPENED--> :bug:
+- prs opened:     <!--S:PRS_OPENED-->32<!--E:PRS_OPENED--> :inbox_tray:
 - repo count:     <!--S:REPO_COUNT-->16<!--E:REPO_COUNT--> :package:
 - gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT--> :pencil:
 - languages:<!--S:LANGUAGES-->
-    - Go: 62.56%
-    - Python: 16.44%
-    - HTML: 6.72%
-    - AsciiDoc: 3.72%
-    - JavaScript: 3.03%
-    - Processing: 2.52%
-    - Shell: 1.01%
-    - Brainfuck: 0.96%
+    - Go: 62.07%
+    - Python: 16.49%
+    - HTML: 6.67%
+    - AsciiDoc: 3.69%
+    - JavaScript: 3.0%
+    - Processing: 2.5%
+    - Shell: 1.0%
+    - Brainfuck: 0.95%
     - C: 0.89%
-    - Makefile: 0.86%
+    - Makefile: 0.85%
 <!--E:LANGUAGES-->
 </pre>
