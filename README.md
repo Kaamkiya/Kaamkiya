@@ -20,9 +20,9 @@ Feel free to contribute to my projects, they're all open for help.
 - Learning:    `zig`, `java`
 - Databases:   `sqlite`, `postgres`
 - Javascript:  `chartjs`, `p5js`, `astro`, `bun`, `deno`, `fresh`
-- Libraries:   Processing, Flask, Go-Chi, many more
-- Distros:     Void, Mint, Debian
-- Other stuff: Linux, Vim, Neovim
+- Libraries:   `processing`, `flask`, `go-chi`, `and many more`
+- Distros:     `void`, `mint`, `debian`
+- Other stuff: `linux`, `vim`, `neovim`
 
 ### social
 - :elephant: Mastodon:   <a href="https://hachyderm.io/@nonexistent">@nonexistent@hachyderm.io</a>
@@ -42,15 +42,6 @@ Feel free to contribute to my projects, they're all open for help.
 - repo count:     <!--S:REPO_COUNT-->16<!--E:REPO_COUNT--> :package:
 - gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT--> :pencil:
 - languages:<!--S:LANGUAGES-->
-    - Go: 62.07%
-    - Python: 16.49%
-    - HTML: 6.67%
-    - AsciiDoc: 3.69%
-    - JavaScript: 3.0%
-    - Processing: 2.5%
-    - Shell: 1.0%
-    - Brainfuck: 0.95%
-    - C: 0.89%
-    - Makefile: 0.85%
+    - YAHOO
 <!--E:LANGUAGES-->
 </pre>
