@@ -25,8 +25,8 @@ Feel free to contribute to my projects, they're all open for help.
 - Other stuff: `linux`, `vim`, `neovim`
 
 ### social
-- :elephant: Mastodon:   <a href="https://hachyderm.io/@nonexistent">@nonexistent@hachyderm.io</a>
-- :mouse: Lemmy:      <a href="https://lemmy.ml/u/kaamkiya">@kaamkiya@lemmy.ml</a>
+- :elephant: Mastodon:    <a href="https://hachyderm.io/@nonexistent">@nonexistent</a>
+- :mouse: Lemmy:          <a href="https://lemmy.ml/u/kaamkiya">@kaamkiya</a>
 - :newspaper: HackerNews: <a href="https://news.ycombinator.com/user?id=kaamkiya">kaamkiya</a> (karma: <!--S:HN_KARMA-->9<!--E:HN_KARMA-->)
 
 ### misc
