@@ -184,6 +184,16 @@ if __name__ == "__main__":
         contents = update("HN_SUBMISSIONS", len(hn_data["submitted"]), contents)
         contents = update("HN_KARMA",       hn_data["karma"],          contents)
 
+    if os.getenv("CODEWARS_USERNAME") != "":
+        cw_res = requests.get("https://www.codewars.com/api/v1/users/"+os.getenv("CODEWARS_USERNAME"))
+        if not cw_res.ok:
+            print(cw_res.status_code)
+            print(cw_res.text)
+            sys.exit(1)
+
+        cw_data = cw_res.json()
+        contents = update("CW_HONOR", cw_data["honor"], contents)
+
     if os.getenv("MASTO_TOKEN") != "":
         # do mastodon stuff here
         pass
