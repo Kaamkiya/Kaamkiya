@@ -33,25 +33,25 @@ Feel free to contribute to my projects, they're all open for help.
 - pronouns: he/him
 - wpm:      <!--S:MT_WPM-->66.7<!--E:MT_WPM--> with <!--S:MT_ACCURACY-->96.9<!--E:MT_ACCURACY-->% accuracy
   <!--duolingo: < !--S:DUO_XP--><!--E:DUO_XP--> <!--XP-->
-- codewars: <!--S:CW_HONOR-->78<!--E:CW_HONOR--> honor
+- codewars: <!--S:CW_HONOR-->82<!--E:CW_HONOR--> honor
 
 ### stats
 - stars earned:   <!--S:STARS_EARNED-->48<!--E:STARS_EARNED--> :star:
 - contributed to: <!--S:CONTRIBUTED_TO-->23<!--E:CONTRIBUTED_TO--> :handshake:
-- issues opened:  <!--S:ISSUES_OPENED-->57<!--E:ISSUES_OPENED--> :bug:
-- prs opened:     <!--S:PRS_OPENED-->33<!--E:PRS_OPENED--> :inbox_tray:
+- issues opened:  <!--S:ISSUES_OPENED-->58<!--E:ISSUES_OPENED--> :bug:
+- prs opened:     <!--S:PRS_OPENED-->34<!--E:PRS_OPENED--> :inbox_tray:
 - repo count:     <!--S:REPO_COUNT-->16<!--E:REPO_COUNT--> :package:
 - gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT--> :pencil:
 - languages:<!--S:LANGUAGES-->
-    - Go: 61.62%
-    - Python: 16.68%
-    - HTML: 6.62%
-    - AsciiDoc: 3.66%
-    - JavaScript: 2.98%
-    - Processing: 2.49%
-    - Shell: 0.99%
-    - Brainfuck: 0.94%
-    - Elvish: 0.92%
-    - C: 0.88%
+    - Go: 66.35%
+    - Python: 14.62%
+    - HTML: 5.8%
+    - AsciiDoc: 3.21%
+    - JavaScript: 2.61%
+    - Processing: 2.18%
+    - Shell: 0.87%
+    - Brainfuck: 0.83%
+    - Elvish: 0.81%
+    - C: 0.77%
 <!--E:LANGUAGES-->
 </pre>
