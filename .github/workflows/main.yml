@@ -35,6 +35,8 @@ jobs:
           DUO_USERID: ${{ secrets.DUO_USERID }}
           # HackerNews
           HN_USERNAME: kaamkiya
+          # Codewars
+          CODEWARS_USERNAME: Kaamkiya
         run: python scripts/main.py
       - name: Commit updates
         run: |
