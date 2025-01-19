@@ -31,15 +31,15 @@ Feel free to contribute to my projects, they're all open for help.
 
 ### misc
 - pronouns: he/him
-- wpm:      <!--S:MT_WPM-->66.7<!--E:MT_WPM--> with <!--S:MT_ACCURACY-->96.9<!--E:MT_ACCURACY-->% accuracy
+- wpm:      <!--S:MT_WPM-->69.1<!--E:MT_WPM--> with <!--S:MT_ACCURACY-->97.1<!--E:MT_ACCURACY-->% accuracy
   <!--duolingo: < !--S:DUO_XP--><!--E:DUO_XP--> <!--XP-->
-- codewars: <!--S:CW_HONOR-->82<!--E:CW_HONOR--> honor
+- codewars: <!--S:CW_HONOR-->121<!--E:CW_HONOR--> honor
 
 ### stats
 - stars earned:   <!--S:STARS_EARNED-->48<!--E:STARS_EARNED--> :star:
-- contributed to: <!--S:CONTRIBUTED_TO-->23<!--E:CONTRIBUTED_TO--> :handshake:
-- issues opened:  <!--S:ISSUES_OPENED-->58<!--E:ISSUES_OPENED--> :bug:
-- prs opened:     <!--S:PRS_OPENED-->34<!--E:PRS_OPENED--> :inbox_tray:
+- contributed to: <!--S:CONTRIBUTED_TO-->25<!--E:CONTRIBUTED_TO--> :handshake:
+- issues opened:  <!--S:ISSUES_OPENED-->61<!--E:ISSUES_OPENED--> :bug:
+- prs opened:     <!--S:PRS_OPENED-->35<!--E:PRS_OPENED--> :inbox_tray:
 - repo count:     <!--S:REPO_COUNT-->16<!--E:REPO_COUNT--> :package:
 - gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT--> :pencil:
 - languages:<!--S:LANGUAGES-->
