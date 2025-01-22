@@ -36,7 +36,7 @@ Feel free to contribute to my projects, they're all open for help.
 - codewars: <!--S:CW_HONOR-->137<!--E:CW_HONOR--> honor
 
 ### stats
-- stars earned:   <!--S:STARS_EARNED-->48<!--E:STARS_EARNED--> :star:
+- stars earned:   <!--S:STARS_EARNED-->51<!--E:STARS_EARNED--> :star:
 - contributed to: <!--S:CONTRIBUTED_TO-->22<!--E:CONTRIBUTED_TO--> :handshake:
 - issues opened:  <!--S:ISSUES_OPENED-->83<!--E:ISSUES_OPENED--> :bug:
 - prs opened:     <!--S:PRS_OPENED-->57<!--E:PRS_OPENED--> :inbox_tray:
