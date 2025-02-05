@@ -44,7 +44,7 @@ Feel free to contribute to my projects, they're all open for help.
 - gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT--> :pencil:
 - languages:<!--S:LANGUAGES-->
     - Go: 68.49%
-    - Python: 14.06%
+    - Python: 14.07%
     - HTML: 5.61%
     - JavaScript: 2.51%
     - Processing: 2.1%
