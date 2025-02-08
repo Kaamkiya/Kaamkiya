@@ -31,7 +31,7 @@ Feel free to contribute to my projects, they're all open for help.
 
 ### misc
 - pronouns: he/him
-- wpm:      <!--S:MT_WPM-->79.7<!--E:MT_WPM--> with <!--S:MT_ACCURACY-->97.4<!--E:MT_ACCURACY-->% accuracy
+- wpm:      <!--S:MT_WPM-->79.7<!--E:MT_WPM--> with <!--S:MT_ACCURACY-->97.3<!--E:MT_ACCURACY-->% accuracy
   <!--duolingo: < !--S:DUO_XP--><!--E:DUO_XP--> <!--XP-->
 - codewars: <!--S:CW_HONOR-->137<!--E:CW_HONOR--> honor
 
@@ -48,7 +48,7 @@ Feel free to contribute to my projects, they're all open for help.
     - HTML: 5.61%
     - JavaScript: 2.51%
     - Processing: 2.1%
-    - C: 1.9%
+    - C: 1.89%
     - Elvish: 1.23%
     - CSS: 1.22%
     - Shell: 0.84%
