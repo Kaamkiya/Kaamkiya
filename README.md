@@ -12,12 +12,12 @@
 ### about
 
 Hello! I'm Kaamkiya, a backend developer who likes chocolate and terminals. I
-mostly use Go, with some Zig and Python too.
+mostly use Go, with some C and Python too.
 Feel free to contribute to my projects, they're all open for help.
 
 ### skills
-- Languages:   `go`, `zig`, `py`, `js`, `ts`, `html`, `css`
-- Learning:    `zig`, `java`
+- Languages:   `go`, `c`, `py`, `js`, `ts`, `html`, `css`
+- Learning:    `c`, `java`
 - Databases:   `sqlite`, `postgres`
 - Javascript:  `chartjs`, `p5js`, `astro`, `bun`, `deno`, `fresh`
 - Libraries:   `processing`, `flask`, `go-chi`, `and many more`
