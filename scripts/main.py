@@ -45,7 +45,7 @@ if __name__ == "__main__":
                             stargazerCount
                         }
                     }
-                    repositories(affiliations: OWNER, first: 100, isFork: false) {
+                    repositories(affiliations: OWNER, first: 100, isFork: false, isArchived: false) {
                         totalCount
                         totalDiskUsage
                         nodes {
