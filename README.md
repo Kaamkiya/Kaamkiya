@@ -31,9 +31,9 @@ Feel free to contribute to my projects, they're all open for help.
 
 ### misc
 - pronouns: he/him
-- wpm:      <!--S:MT_WPM-->73.3<!--E:MT_WPM--> with <!--S:MT_ACCURACY-->95.8<!--E:MT_ACCURACY-->% accuracy
+- wpm:      <!--S:MT_WPM-->74.8<!--E:MT_WPM--> with <!--S:MT_ACCURACY-->96.2<!--E:MT_ACCURACY-->% accuracy
   <!--duolingo: < !--S:DUO_XP--><!--E:DUO_XP--> <!--XP-->
-- codewars: <!--S:CW_HONOR-->191<!--E:CW_HONOR--> honor
+- codewars: <!--S:CW_HONOR-->207<!--E:CW_HONOR--> honor
 
 ### stats
 - stars earned:   <!--S:STARS_EARNED-->57<!--E:STARS_EARNED--> :star:
