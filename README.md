@@ -40,18 +40,18 @@ Feel free to contribute to my projects, they're all open for help.
 - contributed to: <!--S:CONTRIBUTED_TO-->19<!--E:CONTRIBUTED_TO--> :handshake:
 - issues opened:  <!--S:ISSUES_OPENED-->87<!--E:ISSUES_OPENED--> :bug:
 - prs opened:     <!--S:PRS_OPENED-->65<!--E:PRS_OPENED--> :inbox_tray:
-- repo count:     <!--S:REPO_COUNT-->16<!--E:REPO_COUNT--> :package:
+- repo count:     <!--S:REPO_COUNT-->17<!--E:REPO_COUNT--> :package:
 - gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT--> :pencil:
 - languages:<!--S:LANGUAGES-->
-    - Go: 62.88%
-    - Python: 14.3%
-    - HTML: 5.49%
-    - C: 4.15%
-    - JavaScript: 2.46%
-    - Assembly: 2.06%
-    - Processing: 2.05%
-    - Makefile: 1.48%
-    - CSS: 1.21%
-    - Elvish: 1.21%
+    - Go: 57.6%
+    - Python: 13.1%
+    - C: 12.16%
+    - HTML: 5.03%
+    - JavaScript: 2.25%
+    - Assembly: 1.89%
+    - Processing: 1.88%
+    - Makefile: 1.39%
+    - CSS: 1.11%
+    - Elvish: 1.1%
 <!--E:LANGUAGES-->
 </pre>
