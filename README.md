@@ -38,7 +38,7 @@ Feel free to contribute to my projects, they're all open for help.
 ### stats
 - stars earned:   <!--S:STARS_EARNED-->57<!--E:STARS_EARNED--> :star:
 - contributed to: <!--S:CONTRIBUTED_TO-->19<!--E:CONTRIBUTED_TO--> :handshake:
-- issues opened:  <!--S:ISSUES_OPENED-->87<!--E:ISSUES_OPENED--> :bug:
+- issues opened:  <!--S:ISSUES_OPENED-->88<!--E:ISSUES_OPENED--> :bug:
 - prs opened:     <!--S:PRS_OPENED-->65<!--E:PRS_OPENED--> :inbox_tray:
 - repo count:     <!--S:REPO_COUNT-->17<!--E:REPO_COUNT--> :package:
 - gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT--> :pencil:
