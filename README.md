@@ -33,7 +33,7 @@ Feel free to contribute to my projects, they're all open for help.
 - pronouns: he/him
 - wpm:      <!--S:MT_WPM-->77.4<!--E:MT_WPM--> with <!--S:MT_ACCURACY-->97.8<!--E:MT_ACCURACY-->% accuracy
   <!--duolingo: < !--S:DUO_XP--><!--E:DUO_XP--> <!--XP-->
-- codewars: <!--S:CW_HONOR-->286<!--E:CW_HONOR--> honor
+- codewars: <!--S:CW_HONOR-->288<!--E:CW_HONOR--> honor
 
 ### stats
 - stars earned:   <!--S:STARS_EARNED-->56<!--E:STARS_EARNED--> :star:
