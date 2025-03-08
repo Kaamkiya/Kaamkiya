@@ -31,7 +31,7 @@ Feel free to contribute to my projects, they're all open for help.
 
 ### misc
 - pronouns: he/him
-- wpm:      <!--S:MT_WPM-->79.6<!--E:MT_WPM--> with <!--S:MT_ACCURACY-->98.0<!--E:MT_ACCURACY-->% accuracy
+- wpm:      <!--S:MT_WPM-->78.5<!--E:MT_WPM--> with <!--S:MT_ACCURACY-->97.9<!--E:MT_ACCURACY-->% accuracy
   <!--duolingo: < !--S:DUO_XP--><!--E:DUO_XP--> <!--XP-->
 - codewars: <!--S:CW_HONOR-->288<!--E:CW_HONOR--> honor
 
