@@ -44,7 +44,7 @@ jobs:
             git config user.name github-actions[bot]
             git config user.email ziam3.1415@gmail.com
             git add .
-            git commit -m 'feat: Update README with new stats' --allow-empty
+            git commit --allow-empty -m 'feat: Update README with new stats'
             git push
           fi
 
