@@ -24,11 +24,6 @@ Feel free to contribute to my projects, they're all open for help.
 - Distros:     `void`, `mint`, `debian`
 - Other stuff: `linux`, `vim`, `neovim`
 
-### social
-- :elephant: Mastodon:    <a href="https://hachyderm.io/@nonexistent">@nonexistent</a>
-- :mouse: Lemmy:          <a href="https://lemmy.ml/u/kaamkiya">@kaamkiya</a>
-- :newspaper: HackerNews: <a href="https://news.ycombinator.com/user?id=kaamkiya">kaamkiya</a> (karma: <!--S:HN_KARMA-->9<!--E:HN_KARMA-->)
-
 ### misc
 - pronouns: he/him
 - wpm:      <!--S:MT_WPM-->71.4<!--E:MT_WPM--> with <!--S:MT_ACCURACY-->96.4<!--E:MT_ACCURACY-->% accuracy
