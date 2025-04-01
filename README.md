@@ -26,12 +26,12 @@ Feel free to contribute to my projects, they're all open for help.
 
 ### misc
 - pronouns: he/him
-- wpm:      <!--S:MT_WPM-->71.4<!--E:MT_WPM--> with <!--S:MT_ACCURACY-->96.4<!--E:MT_ACCURACY-->% accuracy
+- wpm:      <!--S:MT_WPM-->70.5<!--E:MT_WPM--> with <!--S:MT_ACCURACY-->95.7<!--E:MT_ACCURACY-->% accuracy
   <!--duolingo: < !--S:DUO_XP--><!--E:DUO_XP--> <!--XP-->
 - codewars: <!--S:CW_HONOR-->288<!--E:CW_HONOR--> honor
 
 ### stats
-- stars earned:   <!--S:STARS_EARNED-->59<!--E:STARS_EARNED--> :star:
+- stars earned:   <!--S:STARS_EARNED-->58<!--E:STARS_EARNED--> :star:
 - contributed to: <!--S:CONTRIBUTED_TO-->18<!--E:CONTRIBUTED_TO--> :handshake:
 - issues opened:  <!--S:ISSUES_OPENED-->89<!--E:ISSUES_OPENED--> :bug:
 - prs opened:     <!--S:PRS_OPENED-->68<!--E:PRS_OPENED--> :inbox_tray:
