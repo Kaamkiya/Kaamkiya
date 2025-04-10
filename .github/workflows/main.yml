@@ -1,0 +1,50 @@
+name: Build README
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'
+
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.12
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Update README
+        env:
+          # GitHub stuff
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          LANG_FMT: '    - $name: $percent%'
+          LANG_MAX: 10
+          README: 'README.md'
+          IGNORE_REPOS: 'dotfiles,learn-asm'
+          # MonkeyType
+          MT_TOKEN: ${{ secrets.MT_TOKEN }}
+          # Duolingo
+          DUO_USERID: ${{ secrets.DUO_USERID }}
+          # HackerNews
+          HN_USERNAME: kaamkiya
+          # Codewars
+          CODEWARS_USERNAME: Kaamkiya
+        run: python scripts/main.py
+      - name: Commit updates
+        run: |
+          if [[ "$(git status --porcelain)" != "" ]]; then
+            git config user.name github-actions[bot]
+            git config user.email ziam3.1415@gmail.com
+            git add .
+            git commit --allow-empty -m 'feat: Update README with new stats'
+            git push
+          fi
+
