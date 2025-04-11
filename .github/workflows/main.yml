@@ -24,7 +24,7 @@ jobs:
       - name: Update README
         env:
           # GitHub stuff
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LANG_FMT: '    - $name: $percent%'
           LANG_MAX: 10
           README: 'README.md'
