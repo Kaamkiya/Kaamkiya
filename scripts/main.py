@@ -147,7 +147,7 @@ if __name__ == "__main__":
             "https://api.monkeytype.com/results?limit=10", headers=mt_headers
         )
         if mt_res.ok:
-            mt_data = mt_res.json()["data"]
+            mt_data = mt_res.json()["data"][0]
             print(mt_data)
 
             mt_wpm = 0
@@ -161,15 +161,6 @@ if __name__ == "__main__":
 
             contents = update("MT_WPM", round(mt_wpm, 1), contents)
             contents = update("MT_ACCURACY", round(mt_acc, 1), contents)
-
-            mt_res = requests.get(
-                f"https://api.monkeytype.com/users/{mt_data[0]["name"]}/profile",
-                headers=mt_headers,
-            )
-
-            mt_data = mt_res.json()["data"]
-            contents = update("MT_XP", mt_data["xp"], contents)
-            contents = update("MT_STREAK", mt_data["streak"], contents)
     else:
         print("MONKEYTYPE:", mt_res.status_code)
         print(mt_res.text)
