@@ -148,6 +148,7 @@ if __name__ == "__main__":
         )
         if mt_res.ok:
             mt_data = mt_res.json()["data"]
+            print(mt_data)
 
             mt_wpm = 0
             mt_acc = 0
@@ -170,7 +171,7 @@ if __name__ == "__main__":
             contents = update("MT_XP", mt_data["xp"], contents)
             contents = update("MT_STREAK", mt_data["streak"], contents)
     else:
-        print(mt_res.status_code)
+        print("MONKEYTYPE:", mt_res.status_code)
         print(mt_res.text)
     
     if os.getenv("HN_USERNAME") != "":
