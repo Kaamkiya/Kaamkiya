@@ -147,7 +147,7 @@ if __name__ == "__main__":
             "https://api.monkeytype.com/results?limit=10", headers=mt_headers
         )
         if mt_res.ok:
-            mt_data = mt_res.json()["data"][0]
+            mt_data = mt_res.json()["data"]
             print(mt_data)
 
             mt_wpm = 0
