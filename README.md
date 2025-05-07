@@ -26,7 +26,7 @@ Feel free to contribute to my projects, they're all open for help.
 
 ### misc
 - pronouns: he/him
-- wpm:      <!--S:MT_WPM-->78.1<!--E:MT_WPM--> with <!--S:MT_ACCURACY-->97.9<!--E:MT_ACCURACY-->% accuracy
+- wpm:      <!--S:MT_WPM-->78.5<!--E:MT_WPM--> with <!--S:MT_ACCURACY-->97.7<!--E:MT_ACCURACY-->% accuracy
   <!--duolingo: < !--S:DUO_XP--><!--E:DUO_XP--> <!--XP-->
 - codewars: <!--S:CW_HONOR-->288<!--E:CW_HONOR--> honor
 
@@ -35,18 +35,18 @@ Feel free to contribute to my projects, they're all open for help.
 - contributed to: <!--S:CONTRIBUTED_TO-->11<!--E:CONTRIBUTED_TO--> :handshake:
 - issues opened:  <!--S:ISSUES_OPENED-->89<!--E:ISSUES_OPENED--> :bug:
 - prs opened:     <!--S:PRS_OPENED-->68<!--E:PRS_OPENED--> :inbox_tray:
-- repo count:     <!--S:REPO_COUNT-->19<!--E:REPO_COUNT--> :package:
+- repo count:     <!--S:REPO_COUNT-->20<!--E:REPO_COUNT--> :package:
 - gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT--> :pencil:
 - languages:<!--S:LANGUAGES-->
-    - Go: 56.83%
-    - Python: 11.05%
-    - C: 9.91%
-    - Rust: 8.08%
-    - HTML: 5.15%
-    - JavaScript: 2.17%
-    - Processing: 1.58%
-    - CSS: 1.2%
-    - Makefile: 1.01%
-    - Elvish: 0.93%
+    - Go: 55.09%
+    - Python: 10.71%
+    - C: 9.6%
+    - Rust: 7.84%
+    - HTML: 4.99%
+    - TypeScript: 3.06%
+    - JavaScript: 2.11%
+    - Processing: 1.53%
+    - CSS: 1.16%
+    - Makefile: 0.97%
 <!--E:LANGUAGES-->
 </pre>
