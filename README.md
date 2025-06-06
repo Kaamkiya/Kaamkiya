@@ -31,22 +31,22 @@ Feel free to contribute to my projects, they're all open for help.
 - codewars: <!--S:CW_HONOR-->288<!--E:CW_HONOR--> honor
 
 ### stats
-- stars earned:   <!--S:STARS_EARNED-->62<!--E:STARS_EARNED--> :star:
+- stars earned:   <!--S:STARS_EARNED-->63<!--E:STARS_EARNED--> :star:
 - contributed to: <!--S:CONTRIBUTED_TO-->11<!--E:CONTRIBUTED_TO--> :handshake:
 - issues opened:  <!--S:ISSUES_OPENED-->90<!--E:ISSUES_OPENED--> :bug:
 - prs opened:     <!--S:PRS_OPENED-->68<!--E:PRS_OPENED--> :inbox_tray:
 - repo count:     <!--S:REPO_COUNT-->22<!--E:REPO_COUNT--> :package:
 - gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT--> :pencil:
 - languages:<!--S:LANGUAGES-->
-    - Go: 52.15%
-    - Rust: 10.37%
-    - Python: 10.14%
-    - C: 9.09%
-    - HTML: 8.64%
-    - JavaScript: 3.36%
-    - Processing: 1.45%
-    - CSS: 1.1%
-    - Makefile: 0.92%
-    - Elvish: 0.85%
+    - Go: 57.48%
+    - Rust: 9.21%
+    - Python: 9.01%
+    - C: 8.08%
+    - HTML: 7.68%
+    - JavaScript: 2.99%
+    - Processing: 1.29%
+    - CSS: 0.98%
+    - Makefile: 0.82%
+    - Elvish: 0.76%
 <!--E:LANGUAGES-->
 </pre>
