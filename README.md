@@ -16,13 +16,13 @@ mostly use Go, with some Rust, C and Python too.
 Feel free to contribute to my projects, they're all open for help.
 
 ### skills
-- Languages:   `go`,  `rust`, `c`, `py`, `js`, `ts`, `html`, `css`
-- Learning:    `c`, `java`, `rust`
+- Languages:   `go`, `py`, `rust`, `js`, `ts`, `html`, `css`, `java`
+- Learning:    `rust`, `c`, `java`
 - Databases:   `sqlite`, `postgres`
 - Javascript:  `chartjs`, `p5js`, `astro`, `bun`, `deno`, `fresh`
 - Libraries:   `processing`, `flask`, `go-chi`, `and many more`
-- Distros:     `void`, `mint`, `debian`
-- Other stuff: `linux`, `vim`, `neovim`
+- Distros:     `arch`, `void`, `mint`, `debian`
+- Other stuff: `linux`, `vim`, `neovim`, `helix`
 
 ### misc
 - pronouns: he/him
