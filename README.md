@@ -38,15 +38,15 @@ Feel free to contribute to my projects, they're all open for help.
 - repo count:     <!--S:REPO_COUNT-->26<!--E:REPO_COUNT--> :package:
 - gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT--> :pencil:
 - languages:<!--S:LANGUAGES-->
-    - Go: 53.76%
-    - Python: 13.03%
-    - Rust: 8.88%
-    - C: 7.31%
-    - JavaScript: 4.83%
-    - HTML: 3.65%
-    - Astro: 3.0%
+    - Go: 53.58%
+    - Python: 13.3%
+    - Rust: 8.85%
+    - C: 7.29%
+    - JavaScript: 4.81%
+    - HTML: 3.64%
+    - Astro: 2.99%
     - Processing: 1.15%
-    - CSS: 1.05%
-    - Makefile: 0.78%
+    - CSS: 1.04%
+    - Makefile: 0.79%
 <!--E:LANGUAGES-->
 </pre>
