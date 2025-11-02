@@ -28,7 +28,7 @@ jobs:
           LANG_FMT: '    - $name: $percent%'
           LANG_MAX: 10
           README: 'README.md'
-          IGNORE_REPOS: 'dotfiles,exercism-solutions'
+          IGNORE_REPOS: 'dotfiles,exercism-solutions,learn-asm,sketches'
           # MonkeyType
           MT_TOKEN: ${{ secrets.MT_TOKEN }}
           # Duolingo
