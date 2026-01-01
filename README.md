@@ -40,11 +40,11 @@ Feel free to contribute to my projects, they're all open for help.
 - languages:<!--S:LANGUAGES-->
     - Go: 55.8%
     - Python: 12.64%
-    - Rust: 10.37%
+    - Rust: 10.36%
     - C: 6.42%
     - JavaScript: 4.23%
     - Astro: 3.21%
-    - HTML: 3.2%
+    - HTML: 3.21%
     - CSS: 1.18%
     - Makefile: 0.7%
     - Elvish: 0.59%
