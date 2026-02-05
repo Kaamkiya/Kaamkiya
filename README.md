@@ -26,7 +26,7 @@ Feel free to contribute to my projects, they're all open for help.
 
 ### misc
 - pronouns: he/him
-- wpm:      <!--S:MT_WPM-->83.1<!--E:MT_WPM--> with <!--S:MT_ACCURACY-->95.4<!--E:MT_ACCURACY-->% accuracy
+- wpm:      <!--S:MT_WPM-->86.1<!--E:MT_WPM--> with <!--S:MT_ACCURACY-->97.6<!--E:MT_ACCURACY-->% accuracy
   <!--duolingo: < !--S:DUO_XP--><!--E:DUO_XP--> <!--XP-->
 - codewars: <!--S:CW_HONOR-->294<!--E:CW_HONOR--> honor
 
@@ -38,15 +38,15 @@ Feel free to contribute to my projects, they're all open for help.
 - repo count:     <!--S:REPO_COUNT-->32<!--E:REPO_COUNT--> :package:
 - gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT--> :pencil:
 - languages:<!--S:LANGUAGES-->
-    - Go: 55.0%
-    - Python: 12.46%
-    - Rust: 10.22%
-    - C: 6.82%
+    - Go: 54.9%
+    - Python: 12.43%
+    - Rust: 10.2%
+    - C: 6.81%
     - JavaScript: 4.68%
-    - HTML: 3.5%
+    - HTML: 3.49%
     - Astro: 3.18%
     - CSS: 1.21%
-    - Makefile: 0.71%
+    - Makefile: 0.7%
     - Elvish: 0.58%
 <!--E:LANGUAGES-->
 </pre>
