@@ -43,9 +43,9 @@ Feel free to contribute to my projects, they're all open for help.
     - Rust: 9.67%
     - C: 9.27%
     - JavaScript: 4.49%
-    - Astro: 4.38%
+    - Astro: 4.4%
     - HTML: 3.31%
-    - CSS: 1.12%
+    - CSS: 1.11%
     - Makefile: 0.67%
     - Elvish: 0.55%
 <!--E:LANGUAGES-->
