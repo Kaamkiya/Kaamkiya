@@ -45,7 +45,7 @@ Feel free to contribute to my projects, they're all open for help.
     - Astro: 5.8%
     - JavaScript: 5.0%
     - HTML: 3.24%
-    - CSS: 1.14%
+    - CSS: 1.15%
     - Makefile: 0.65%
     - Elvish: 0.54%
 <!--E:LANGUAGES-->
