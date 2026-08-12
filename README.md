@@ -11,16 +11,15 @@
 
 ### about
 
-Hello! I'm Kaamkiya, a backend developer who likes chocolate and terminals. I
-mostly use Go, with some Rust, C and Python too.
-Feel free to contribute to my projects, they're all open for help.
+Hello! I'm Kaamkiya, a programmer who likes chocolate and terminals. I mostly
+code in Go (backend) and C (embedded), and sometimes use Rust and Python too.
+Currently learning to use microcontrollers on an ESP32.
+Feel free to contribute to my projects, I'm happy to accept pull requests!
 
 ### skills
-- Languages:   `go`, `py`, `rust`, `js`, `ts`, `html`, `css`, `java`
-- Learning:    `rust`, `c`, `java`
+- Languages:   `go`, `py`, `c`, `js`, `ts`, `html`, `css`, `java`
 - Databases:   `sqlite`, `postgres`
-- Javascript:  `chartjs`, `p5js`, `astro`, `bun`, `deno`, `fresh`
-- Libraries:   `processing`, `flask`, `go-chi`, `and many more`
+- Javascript:  `astro`, `p5js`, `bun`, `deno`
 - Distros:     `arch`, `void`, `mint`, `debian`
 - Other stuff: `linux`, `vim`, `neovim`, `helix`
 
@@ -38,15 +37,6 @@ Feel free to contribute to my projects, they're all open for help.
 - repo count:     <!--S:REPO_COUNT-->33<!--E:REPO_COUNT--> :package:
 - gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT--> :pencil:
 - languages:<!--S:LANGUAGES-->
-    - Go: 51.08%
-    - Python: 11.91%
-    - Rust: 9.46%
-    - C: 9.07%
-    - Astro: 5.8%
-    - JavaScript: 5.0%
-    - HTML: 3.24%
-    - CSS: 1.15%
-    - Makefile: 0.65%
-    - Elvish: 0.54%
+    **REGENERATE THIS BLOCK**
 <!--E:LANGUAGES-->
 </pre>
