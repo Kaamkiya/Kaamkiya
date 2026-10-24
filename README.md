@@ -33,19 +33,19 @@ Feel free to contribute to my projects, I'm happy to accept pull requests!
 - stars earned:   <!--S:STARS_EARNED-->79<!--E:STARS_EARNED--> :star:
 - contributed to: <!--S:CONTRIBUTED_TO-->3<!--E:CONTRIBUTED_TO--> :handshake:
 - issues opened:  <!--S:ISSUES_OPENED-->91<!--E:ISSUES_OPENED--> :bug:
-- prs opened:     <!--S:PRS_OPENED-->73<!--E:PRS_OPENED--> :inbox_tray:
+- prs opened:     <!--S:PRS_OPENED-->74<!--E:PRS_OPENED--> :inbox_tray:
 - repo count:     <!--S:REPO_COUNT-->35<!--E:REPO_COUNT--> :package:
 - gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT--> :pencil:
 - languages:<!--S:LANGUAGES-->
-    - Go: 43.83%
-    - Java: 15.25%
-    - Python: 9.04%
-    - Rust: 7.18%
-    - C: 6.88%
-    - Astro: 4.55%
-    - JavaScript: 3.79%
-    - C++: 3.38%
-    - HTML: 2.98%
-    - CSS: 0.88%
+    - Go: 44.1%
+    - Java: 15.17%
+    - Python: 9.0%
+    - Rust: 7.15%
+    - C: 6.85%
+    - Astro: 4.53%
+    - JavaScript: 3.78%
+    - C++: 3.36%
+    - HTML: 2.97%
+    - CSS: 0.87%
 <!--E:LANGUAGES-->
 </pre>
