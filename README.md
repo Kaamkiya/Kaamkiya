@@ -23,11 +23,11 @@ Feel free to contribute to my projects, I'm happy to accept pull requests!
 - Distros:     `arch`, `void`, `mint`, `debian`
 - Other stuff: `linux`, `vim`, `neovim`, `helix`
 
-### misc
+<!--### misc
 - pronouns: he/him
 - wpm:      <!--S:MT_WPM-->85.1<!--E:MT_WPM--> with <!--S:MT_ACCURACY-->96.4<!--E:MT_ACCURACY-->% accuracy
   <!--duolingo: < !--S:DUO_XP--><!--E:DUO_XP--> <!--XP-->
-- codewars: <!--S:CW_HONOR-->294<!--E:CW_HONOR--> honor
+<!--- codewars: <!--S:CW_HONOR-->294<!--E:CW_HONOR--> honor-->
 
 ### stats
 - stars earned:   <!--S:STARS_EARNED-->79<!--E:STARS_EARNED--> :star:
@@ -37,15 +37,6 @@ Feel free to contribute to my projects, I'm happy to accept pull requests!
 - repo count:     <!--S:REPO_COUNT-->35<!--E:REPO_COUNT--> :package:
 - gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT--> :pencil:
 - languages:<!--S:LANGUAGES-->
-    - Go: 43.11%
-    - Java: 17.07%
-    - Python: 8.8%
-    - Rust: 6.99%
-    - C: 6.7%
-    - Astro: 4.43%
-    - JavaScript: 3.69%
-    - C++: 3.29%
-    - HTML: 2.9%
-    - CSS: 0.85%
+REGEN
 <!--E:LANGUAGES-->
 </pre>
