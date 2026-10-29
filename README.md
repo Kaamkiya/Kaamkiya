@@ -37,6 +37,15 @@ Feel free to contribute to my projects, I'm happy to accept pull requests!
 - repo count:     <!--S:REPO_COUNT-->35<!--E:REPO_COUNT--> :package:
 - gist count:     <!--S:GIST_COUNT-->0<!--E:GIST_COUNT--> :pencil:
 - languages:<!--S:LANGUAGES-->
-REGEN
+    - Go: 43.11%
+    - Java: 17.07%
+    - Python: 8.8%
+    - Rust: 6.99%
+    - C: 6.7%
+    - Astro: 4.43%
+    - JavaScript: 3.69%
+    - C++: 3.29%
+    - HTML: 2.9%
+    - CSS: 0.85%
 <!--E:LANGUAGES-->
 </pre>
